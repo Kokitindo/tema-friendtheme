@@ -1,0 +1,13 @@
+================ Changelog version 1.0.1 =====================
+- margin homepage search form (mobile) = (css/style.css)
+- margin phone form (mobile) = (css/style.css)
+- rtl back to top = (css/rtl.css)
+- mobile ribbon (fixed bugs) = (css/style.css)
+- rtl ribbon = (css/rtl.css)
+- update personal/company filter = (css/style.css, search.php, function.php)
+- mobile product gallery 0 - 280px, 280px - 440px = (includes/loop/)
+- gallery premium ads - (search_premium.php)
+- header column css (mobile) = (header.php)
+- category images (file compressed to small size) = (images/category/)
+- hide breadcrumbs in mobile (576 - 0) = (css/style.css)
+- captcha in product page (fixed bugs) = (item.php, user-public.php)

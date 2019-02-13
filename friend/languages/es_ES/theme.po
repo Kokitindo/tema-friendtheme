@@ -1,0 +1,870 @@
+# Copyright (C) 2017 OsclassMe
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassDotMe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-10 18:33+0700\n"
+"Language-Team: Translations <cs@osclass.me>\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: 404.php start
+msgid "404 Not Found"
+msgstr "Error 404 Página no encontrada"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Lo sentimos, ha ocurrido un error, la página solicitada no encontrado!"
+
+msgid "Take me home"
+msgstr "Llévame a casa"
+
+msgid "or"
+msgstr "o"
+
+msgid "Contact support"
+msgstr "Soporte de contacto"
+
+#: admin/category.php start
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Recommended size"
+msgstr "Tamaño recomendado"
+
+msgid "Category Images"
+msgstr "Imágenes de Categoría"
+
+#: admin/general.php start
+msgid "General Settings"
+msgstr "Ajustes Generales"
+
+msgid "Search Placeholder"
+msgstr "Espacio para buscador"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Welcome text"
+msgstr "Texto de bienvenida"
+
+msgid "Welcome to classifieds"
+msgstr "Bienvenido a anuncios clasificado"
+
+msgid "Insert your welcome text"
+msgstr "Inserte su texto bienvenida"
+
+msgid "Header search butoon"
+msgstr "Cabecera búsqueda butoon"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Show tab content"
+msgstr "Contenido de la Pestaña"
+
+msgid "Premium ads"
+msgstr "Anuncios Premium"
+
+msgid "Latest ads"
+msgstr "Últimos anuncios"
+
+msgid "All category"
+msgstr "Categoría"
+
+msgid "Show category count"
+msgstr "Contador de categorías"
+
+msgid "Premium ads count"
+msgstr "Anuncios Premium cuenta"
+
+msgid "Latest ads count"
+msgstr "Últimos anuncios de la cuenta"
+
+msgid "Search premium ads"
+msgstr "Anuncios de búsqueda Premium"
+
+msgid "Related ads count"
+msgstr "Anuncios relacionados con la cuenta"
+
+msgid "Footer Copyright"
+msgstr "Texto Copyright en el pie de página"
+
+msgid "Copyright All right reserved"
+msgstr "Copyright Todos los derechos reservados"
+
+msgid "Copyright text on footer."
+msgstr "Copyright texto de pie de página."
+
+msgid "Element settings"
+msgstr "Ajustes Generales"
+
+msgid "Show lists as"
+msgstr "Mostrar listas como"
+
+msgid "Gallery"
+msgstr "Galería"
+
+msgid "List"
+msgstr "Lista desplegable"
+
+msgid "Large gallery"
+msgstr "Galería grande"
+
+msgid "Search form"
+msgstr "Formulario de búsqueda"
+
+msgid "Region"
+msgstr "Región"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Show main category images"
+msgstr "Mostrar imágenes de la categoría principal"
+
+msgid "Show footer statistic"
+msgstr "Ver pie de página estadística"
+
+msgid "Footer widget"
+msgstr "Área del Widget del Pié de Página - Sexta Columna"
+
+msgid "Widget title"
+msgstr "Título del widget"
+
+msgid "Your title"
+msgstr "Tu título"
+
+msgid "Widget content"
+msgstr "Contenido del widget"
+
+msgid "Insert your title and widget"
+msgstr "Inserte el título y widget"
+
+msgid "Color settings"
+msgstr "Configuración del color"
+
+msgid "Select color Scheme"
+msgstr "Seleccione esquema de color"
+
+msgid "Theme Color"
+msgstr "Color del tema"
+
+msgid "Background color"
+msgstr "Color de fondo"
+
+msgid "Price color"
+msgstr "Color del precio"
+
+msgid "Footer color"
+msgstr "Color del pie de página"
+
+msgid "Footer background"
+msgstr "Imágenes de fondo"
+
+msgid "Ads space"
+msgstr "Espacio de anuncios"
+
+msgid "Insert your ads code"
+msgstr "Introducir el código"
+
+msgid "Header ads"
+msgstr "Anuncios en encabezado"
+
+msgid "Footer ads"
+msgstr "Anuncios de pie de página"
+
+msgid "Sidebar ads"
+msgstr "Anuncios en Barra lateral"
+
+msgid "Search page ads"
+msgstr "Buscar página de Anuncios"
+
+msgid "Social media"
+msgstr "Redes Sociales"
+
+msgid "More"
+msgstr "Más"
+
+msgid "Term of use link"
+msgstr "Término de uso enlace"
+
+msgid "Useful title"
+msgstr "Título útil"
+
+msgid "Your useful title"
+msgstr "Título información útil"
+
+msgid "Useful content"
+msgstr "Contenido a mostrar"
+
+msgid "Insert your useful content"
+msgstr "Insertar el código de texto o html"
+
+msgid "Leave blank if you want to use default useful info"
+msgstr "Deje en blanco si desea utilizar información útil por defecto"
+
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: admin/info.php start
+msgid "Update and Fixed"
+msgstr "Actualización y fija"
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "Ask and support"
+msgstr "Contactar Soporte"
+
+msgid "If you have problem or bugs in theme, please report"
+msgstr "Si tiene problemas o errores, por favor pida al desarrollador aquí"
+
+msgid "Click here"
+msgstr "Registrate aquí"
+
+msgid "for ask or support"
+msgstr "contactar soporte"
+
+msgid "Support this theme"
+msgstr "Contactar Soporte"
+
+msgid "If you happy for this theme, please give support for this theme"
+msgstr "Si feliz por este tema, por favor, dar apoyo para este tema"
+
+msgid "for give 5 rating star"
+msgstr "para dar 5 estrellas de calificación"
+
+#: admin/logo.php start
+msgid "The image has been uploaded correctly"
+msgstr "El logo se ha subido exitosamente"
+
+msgid "An error has occurred, please try again"
+msgstr "Ha ocurrido un error. Por favor, inténtelo de nuevo"
+
+msgid "The image has been removed"
+msgstr "Se ha eliminado la imagen del logo"
+
+msgid "Image not found"
+msgstr "Imagen no encontrada"
+
+msgid "Settings images"
+msgstr "Imágenes"
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid "You not upload any images"
+msgstr "No subas imágenes"
+
+msgid "Favicon images"
+msgstr "Imágenes de favicon"
+
+msgid "The images folder %s is not writable on your server"
+msgstr ""
+"La carpeta de <strong>imágenes%s</strong> no se puede escribir en el servidor"
+
+msgid "Osclass can't upload logo image from the administration panel"
+msgstr "OSClass no puede subir la imagen del logotipo del panel de administración"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Por favor haga que la carpeta de imágenes tenga derechos de escritura"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr ""
+"Para hacer un directorio escribible bajo UNIX ejecutar este comando desde el shell"
+
+#: admin/settings.php start
+msgid "By"
+msgstr "Por"
+
+msgid "General"
+msgstr "General"
+
+msgid "Logo and Favicon"
+msgstr "Logo y Favicon"
+
+msgid "Category images"
+msgstr "Categoría de Imágenes"
+
+msgid "Update and support"
+msgstr "Contactar Soporte"
+
+#: alert-form.php start
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Se ha suscrito con éxito a la alerta"
+
+msgid "Invalid email address"
+msgstr "Dirección de e-mail inválida"
+
+msgid "There was a problem with the alert"
+msgstr "Hubo un problema con la alerta"
+
+msgid "Subscribe to this search"
+msgstr "Suscríbase a esta búsqueda"
+
+msgid "Subscribe now"
+msgstr "Suscríbase ahora"
+
+#: contact.php start
+msgid "Contact us"
+msgstr "Contáctenos"
+
+msgid "Contact administrator"
+msgstr "Contactar al Administrador"
+
+msgid "Your name"
+msgstr "Tu nombre"
+
+msgid "optional"
+msgstr "opcional"
+
+msgid "Your e-mail address"
+msgstr "Su dirección de e-mail"
+
+msgid "Subject"
+msgstr "Asunto"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Send messages"
+msgstr "Enviar mensajes"
+
+#: custom.php start
+msgid "Pages"
+msgstr "Páginas"
+
+#: footer.php start
+msgid "Active ads"
+msgstr "Anuncios activos"
+
+msgid "in"
+msgstr "en"
+
+msgid "Total user"
+msgstr "Total usuarios"
+
+msgid "Total City"
+msgstr "Ciudad Total"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Follow us"
+msgstr "Síguenos"
+
+msgid "Back to top"
+msgstr "Botón Volver arriba"
+
+msgid "Top"
+msgstr "Arriba"
+
+#: function.php start
+msgid "ie. PHP Programmer"
+msgstr "es decir. Programador PHP"
+
+#: user-item.php
+msgid "Manage my ads"
+msgstr "Gestionar mis anuncios"
+
+msgid "My alerts"
+msgstr "Mis Notificaciones"
+
+msgid "Edit profile"
+msgstr "Profili Düzenle"
+
+msgid "Change email"
+msgstr "Cambiar correo electrónico"
+
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: header.php start
+msgid "Home"
+msgstr "Casa"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Hi %s"
+msgstr "Hola %s"
+
+msgid "My account"
+msgstr "Mi cuenta"
+
+msgid "Hi Guest!"
+msgstr "Hola invitado!"
+
+msgid "Login"
+msgstr "Iniciar sesión"
+
+msgid "Register"
+msgstr "Registrar"
+
+msgid "Post new ads"
+msgstr "Publicar un nuevo anuncio"
+
+#: item.php start
+msgid "Seller profile"
+msgstr "Perfil de vendedor"
+
+msgid "Ads expired"
+msgstr "Expirado"
+
+msgid "Send mail"
+msgstr "Enviar correo"
+
+msgid "View profile"
+msgstr "Ver perfil"
+
+msgid "Unregistered"
+msgstr "No registrado"
+
+msgid "Seller information"
+msgstr "Información del vendedor"
+
+msgid "The ads is expired. You can't contact the publisher."
+msgstr "El anuncio ha expirado. No puede contactarse con el anunciante."
+
+msgid "It's your own ads, you can't contact the publisher."
+msgstr "Es su propio anuncio, no puede contactarse con el vendedor ."
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"Debe de conectarse o registrar una nueva cuenta para contactar al anunciante"
+
+msgid "Email"
+msgstr "Dirección de e-mail inválida"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid "Cell phone"
+msgstr "Teléfono celular"
+
+msgid "Send email"
+msgstr "Su dirección"
+
+msgid "Register for a free account"
+msgstr "Registre su cuenta gratis"
+
+msgid "Your e-mail"
+msgstr "﻿Su e-mail"
+
+msgid "Phone number"
+msgstr "Número de teléfono"
+
+msgid "Attachment"
+msgstr "Archivo Adjunto"
+
+msgid "Enter the words above"
+msgstr "Introduzca las palabras que aparecen arriba"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Location"
+msgstr "Localización"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Share"
+msgstr "Compartir"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Detail"
+msgstr "Detalle"
+
+msgid "More information"
+msgstr "Más información"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Views"
+msgstr "Puntos de vista"
+
+msgid "Modified"
+msgstr "Fecha de modificación"
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Delete your comment"
+msgstr "Borrar su comentario"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "No comments added yet. Be first to leave comment!"
+msgstr "No hay comentarios todavía añadidos. ¡Sé el primero en dejar comentario!"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Comment"
+msgstr "Comentario"
+
+msgid "Submit comment"
+msgstr "Publicar Comentario"
+
+msgid "Useful information"
+msgstr "Información útil"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Evite el fraude hágalo localmente o pagando con PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Nunca pagues con Western Union, Moneygram u otros servicios de pago anónimos"
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"No compre o venda fuera de su país. No aceptes cheques desde fuera de su país"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, "
+"shipping, guarantee transactions, provide escrow services, or offer \"buyer "
+"protection\" or \"seller certification\""
+msgstr ""
+"Este sitio no está involucrado en ninguna de las transacciones y no maneja pagos, "
+"envíos, garantías de transacciones, proporciona servicios de depósito, ni ofrece "
+"\"protección al comprador\" o  \"certificación del vendedor\""
+
+msgid "Related ads"
+msgstr "Anuncios Relacionados"
+
+#: item-post.php start
+msgid "General Information"
+msgstr "Información general"
+
+msgid "Select a category"
+msgstr "Selecciona una categoría"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Ads Location"
+msgstr "Ubicación"
+
+msgid "City Area"
+msgstr "Área urbana"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+msgid "Show e-mail on the ads page"
+msgstr "Mostrar e-mail en la página del anuncio"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Publish"
+msgstr "Publicar"
+
+#: item-send-friend.php start
+msgid "Share ads"
+msgstr "Compartir"
+
+msgid "Send to a friend"
+msgstr "Enviar a un amigo"
+
+msgid "Your friend's name"
+msgstr "Nombre de tu amigo"
+
+msgid "Your friend's e-mail address"
+msgstr "Email de su amigo"
+
+#: main.php start
+msgid "All categories"
+msgstr "Todas las categorias"
+
+#: related.php start
+msgid "Premium"
+msgstr "Prémium"
+
+#: search.php start
+msgid "All result"
+msgstr "Todas"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Company"
+msgstr "La empresa"
+
+msgid "View in gallery"
+msgstr "Ver en Galería"
+
+msgid "View in list"
+msgstr "Mostrar como lista"
+
+msgid "View in large galley"
+msgstr "Ver anuncio"
+
+msgid "Result"
+msgstr "Resultado"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d of %3$d anuncios"
+
+msgid "Sort by"
+msgstr "Clasificar por"
+
+msgid "There are no results matching \"%s\""
+msgstr "No hay resultados que coincidan \"%s\""
+
+msgid "Your search"
+msgstr "Su búsqueda"
+
+msgid "Show only ads with images"
+msgstr "Mostrar sólo anuncios con fotos"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Máx"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+#: user-alert.php start
+msgid "My alert"
+msgstr "Mi alerta"
+
+msgid "You do not have any alerts yet"
+msgstr "Usted no tiene alertas aún"
+
+msgid "Alert"
+msgstr "Alerta"
+
+msgid "Delete this alert"
+msgstr "Eliminar esta alerta"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Esta acción no se puede deshacer. ¿Está seguro de que desea continuar?"
+
+#: user-change_email.php start
+msgid "Change your e-mail"
+msgstr "Cambiar e-mail"
+
+msgid "Current e-mail"
+msgstr "Correo electrónico actual"
+
+msgid "New e-mail"
+msgstr "Nuevo E-mail"
+
+#: user-change_password.php start
+msgid "Change your password"
+msgstr "Cambiar su contraseña"
+
+msgid "New password"
+msgstr "Nueva contraseña"
+
+msgid "Current password"
+msgstr "Contraseña actual"
+
+msgid "Repeat new password"
+msgstr "Repetir nueva contraseña"
+
+#: user-change_username.php start
+msgid "Change your username"
+msgstr "Cambiar nombre de usuario"
+
+msgid "Username"
+msgstr "Nombre de Usuario"
+
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. Choose "
+"wisely."
+msgstr ""
+"ADVERTENCIA: Una vez configurado, usted no será capaz de cambiar su nombre de "
+"usuario nuevo. Escoge sabiamente."
+
+msgid "Forgot password?"
+msgstr "Contraseña Olvidada?"
+
+msgid "Access your account"
+msgstr "Accesar a su cuenta"
+
+msgid "Remember me"
+msgstr "Recuérdame"
+
+msgid "Don't have an account!"
+msgstr "No tienes una cuenta!"
+
+msgid "Register here"
+msgstr "Registrar"
+
+msgid "Update your profile"
+msgstr "Actualiza tu perfil"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "User type"
+msgstr "Tipo de usuario"
+
+msgid "Website"
+msgstr "Sitios web"
+
+msgid "Delete my account"
+msgstr "Eliminar mi cuenta"
+
+msgid "User Description"
+msgstr "Descripción del usuario"
+
+msgid "Ads from %s"
+msgstr "Anuncios de %s"
+
+msgid "Recover your password"
+msgstr "Recuperar su contraseña"
+
+msgid "Send me a new password"
+msgstr "Envíeme una nueva contraseña"
+
+msgid "Create new account"
+msgstr "Crear"
+
+msgid "Re-type password"
+msgstr "Confirmar contraseña"
+
+msgid "Passwords don't match"
+msgstr "Las contraseñas no coinciden"
+
+msgid "I agree to the"
+msgstr "Estoy de acuerdo con la"
+
+msgid "Terms of Use"
+msgstr "Condiciones de uso"
+
+msgid "Already have an account?"
+msgstr "¿Ya tienes una cuenta?"
+
+msgid "Your contact info"
+msgstr "Información estadística"
+
+msgid "Insert number"
+msgstr "Número de teléfono"
+
+msgid "No file selected"
+msgstr "No se ha seleccionado ningún archivo"
+
+msgid "Choose File"
+msgstr "Selecciona archivo"
+
+msgid "Select a region"
+msgstr "Selecciona una región"
+
+msgid "Select a city"
+msgstr "Seleccione la ciudad"
+
+msgid "Select a country"
+msgstr "Seleccionar un país"
+
+msgid "No Latest ads"
+msgstr "Últimos anuncios"
+
+msgid "You not have ads"
+msgstr "No tienes anuncios"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Esta acción no se puede deshacer. ¿Seguro que desea continuar?"
+
+msgid "See all ads"
+msgstr "Ver todos los anuncios"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Browse categories"
+msgstr "Buscar categorías"
+
+msgid "Seller's information"
+msgstr "Información del Vendedor"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Registered"
+msgstr "Registrado"
+
+msgid "Phone number not available"
+msgstr "Número de teléfono no disponible"
+
+msgid "Images already uploaded"
+msgstr "Imágenes subidas ya"
+
+msgid "Change profile picture"
+msgstr "Cambiar foto de perfil"
+
+msgid "Delete account button"
+msgstr "Eliminar botón cuenta"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"Se eliminarán todos sus anuncios y alertas, no se puede deshacer esta acción."
+
+msgid "Delete account"
+msgstr "Eliminar cuenta"
+
+msgid "Header search button"
+msgstr "Buscador en cabecera"
+
+msgid "Use custom color"
+msgstr "Usar color personalizado"
+
+msgid "Use default color"
+msgstr "Usar color predeterminado"
+
+msgid "Custom color"
+msgstr "Color personalizado"
+
+msgid "Right sidebar ads"
+msgstr "Barra lateral derecha"
+
+msgid "Left sidebar ads"
+msgstr "Barra lateral izquierda"

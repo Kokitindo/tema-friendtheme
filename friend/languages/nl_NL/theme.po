@@ -1,0 +1,887 @@
+# Copyright (C) 2017 OsclassMe
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassDotMe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-12 12:16+0700\n"
+"Language-Team: Translations <cs@osclass.me>\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: nl_NL\n"
+
+#: 404.php start
+msgid "404 Not Found"
+msgstr "404 Niet Gevonden"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Sorry, er is een fout opgetreden, Gevraagde pagina kan niet gevonden!"
+
+msgid "Take me home"
+msgstr "Take me home"
+
+msgid "or"
+msgstr "of"
+
+msgid "Contact support"
+msgstr "Neem contact op met ondersteuning"
+
+#: admin/category.php start
+msgid "Remove"
+msgstr "Verwijderen"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "Recommended size"
+msgstr "Aanbevolen grootte"
+
+msgid "Category Images"
+msgstr "Afbeeldingen Categorie"
+
+#: admin/general.php start
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+msgid "Search Placeholder"
+msgstr "Zoeken Placeholder"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "Welcome text"
+msgstr "Welkomst tekst"
+
+msgid "Welcome to classifieds"
+msgstr "welkom bij classifieds"
+
+msgid "Insert your welcome text"
+msgstr "Welkom tekst invoegen"
+
+msgid "Header search butoon"
+msgstr "Kop zoeken butoon"
+
+msgid "Show"
+msgstr "Weergeven"
+
+msgid "Hide"
+msgstr "Verberg"
+
+msgid "Show tab content"
+msgstr "Tab Inhoud"
+
+msgid "Premium ads"
+msgstr "Premium advertenties"
+
+msgid "Latest ads"
+msgstr "Nieuwste advertenties"
+
+msgid "All category"
+msgstr "Alle categorieën"
+
+msgid "Show category count"
+msgstr "Toon Categorie tellingen"
+
+msgid "Premium ads count"
+msgstr "Premium advertenties tellen"
+
+msgid "Latest ads count"
+msgstr "Nieuwste advertenties tellen"
+
+msgid "Search premium ads"
+msgstr "Zoek Premium advertenties"
+
+msgid "Related ads count"
+msgstr "Gerelateerde advertenties tellen"
+
+msgid "Footer Copyright"
+msgstr "Voetnoot copyright tekst"
+
+msgid "Copyright All right reserved"
+msgstr "Copyright alle rechten voorbehouden"
+
+msgid "Copyright text on footer."
+msgstr "Tekst van de auteursrechten op voettekst."
+
+msgid "Element settings"
+msgstr "Element-instellingen"
+
+msgid "Show lists as"
+msgstr "Toon lijsten als"
+
+msgid "Gallery"
+msgstr "Gallerij"
+
+msgid "List"
+msgstr "Lijst"
+
+msgid "Large gallery"
+msgstr "Grote galerij"
+
+msgid "Search form"
+msgstr "Zoekformulier"
+
+msgid "Region"
+msgstr "Regio"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Show main category images"
+msgstr "Hoofdcategorie afbeeldingen tonen"
+
+msgid "Show footer statistic"
+msgstr "Toon voettekst statistiek"
+
+msgid "Footer widget"
+msgstr "Footer Widget"
+
+msgid "Widget title"
+msgstr "Widget titel"
+
+msgid "Your title"
+msgstr "Jouw aanhef"
+
+msgid "Widget content"
+msgstr "Widget Inhoud"
+
+msgid "Insert your title and widget"
+msgstr "Uw titel en widget invoegen"
+
+msgid "Color settings"
+msgstr "Kleur-instellingen"
+
+msgid "Select color Scheme"
+msgstr "Kleurenontwerp selecteren"
+
+msgid "Theme Color"
+msgstr "Themakleuren"
+
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+msgid "Price color"
+msgstr "Prijs kleur"
+
+msgid "Footer color"
+msgstr "Voetkleur"
+
+msgid "Footer background"
+msgstr "Voettekst achtergrond"
+
+msgid "Ads space"
+msgstr "Advertenties ruimte"
+
+msgid "Insert your ads code"
+msgstr "Uw advertenties-code invoegen"
+
+msgid "Header ads"
+msgstr "Header advertenties"
+
+msgid "Footer ads"
+msgstr "Voettekst advertenties"
+
+msgid "Sidebar ads"
+msgstr "sidebar advertenties"
+
+msgid "Search page ads"
+msgstr "Zoekpagina"
+
+msgid "Social media"
+msgstr "Sociale media"
+
+msgid "More"
+msgstr "Meer"
+
+msgid "Term of use link"
+msgstr "Duur van de verbinding gebruiken"
+
+msgid "Useful title"
+msgstr "Nuttige titel"
+
+msgid "Your useful title"
+msgstr "Uw nuttige titel"
+
+msgid "Useful content"
+msgstr "Nuttige inhoud"
+
+msgid "Insert your useful content"
+msgstr "Uw nuttige inhoud invoegen"
+
+msgid "Leave blank if you want to use default useful info"
+msgstr "Laat leeg als u wilt gebruiken standaard nuttige info"
+
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: admin/info.php start
+msgid "Update and Fixed"
+msgstr "Bijwerken en vaste"
+
+msgid "Version"
+msgstr "Versie"
+
+msgid "Ask and support"
+msgstr "Vragen en ondersteuning"
+
+msgid "If you have problem or bugs in theme, please report"
+msgstr "Hebt u probleem of bugs in thema, rapporteer"
+
+msgid "Click here"
+msgstr "Klik hier"
+
+msgid "for ask or support"
+msgstr "voor vragen of ondersteuning"
+
+msgid "Support this theme"
+msgstr "Ondersteuning van dit thema"
+
+msgid "If you happy for this theme, please give support for this theme"
+msgstr "Als je blij voor dit thema, geef ondersteuning voor dit thema"
+
+msgid "for give 5 rating star"
+msgstr "voor het geven van 5 sterren rating"
+
+#: admin/logo.php start
+msgid "The image has been uploaded correctly"
+msgstr "De afbeelding heeft correct geupload"
+
+msgid "An error has occurred, please try again"
+msgstr "Er is een fout opgetreden, probeer het opnieuw"
+
+msgid "The image has been removed"
+msgstr "﻿De logo afbeelding is verwijderd"
+
+msgid "Image not found"
+msgstr "Afbeelding niet gevonden"
+
+msgid "Settings images"
+msgstr "Instellingen afbeeldingen"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "You not upload any images"
+msgstr "U uploaden niet alle afbeeldingen"
+
+msgid "Favicon images"
+msgstr "Favicon beelden"
+
+msgid "The images folder %s is not writable on your server"
+msgstr ""
+"De afbeeldingen map <strong>%s</strong> is niet beschrijfbaar op uw server"
+
+msgid "Osclass can't upload logo image from the administration panel"
+msgstr "Kan de logo afbeelding niet uploaden vanaf het administratie paneel."
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Controleer de genoemde afbeeldingen map beschrijfbaar"
+
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell"
+msgstr ""
+"Om een ​​map beschrijfbaar onder UNIX te voeren deze opdracht van de shell:"
+
+#: admin/settings.php start
+msgid "By"
+msgstr "Door"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Logo and Favicon"
+msgstr "Logo en Favicon"
+
+msgid "Category images"
+msgstr "Categorie afbeeldingen"
+
+msgid "Update and support"
+msgstr "Update en ondersteuning"
+
+#: alert-form.php start
+msgid "You have sucessfully subscribed to the alert"
+msgstr "U heeft met succes geabonneerd op de melding"
+
+msgid "Invalid email address"
+msgstr "Ongeldig e-mailadres"
+
+msgid "There was a problem with the alert"
+msgstr "Er was een probleem met de melding"
+
+msgid "Subscribe to this search"
+msgstr "﻿Abonneer op deze zoekopdracht"
+
+msgid "Subscribe now"
+msgstr "﻿Abonneer nu"
+
+#: contact.php start
+msgid "Contact us"
+msgstr "Contact Ons"
+
+msgid "Contact administrator"
+msgstr "Contact beheerder"
+
+msgid "Your name"
+msgstr "Uw naam"
+
+msgid "optional"
+msgstr "optioneel"
+
+msgid "Your e-mail address"
+msgstr "Uw e-mailadres"
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "Send messages"
+msgstr "Verstuur berichten"
+
+#: custom.php start
+msgid "Pages"
+msgstr "Pagina's"
+
+#: footer.php start
+msgid "Active ads"
+msgstr "Actieve advertenties"
+
+msgid "in"
+msgstr "in"
+
+msgid "Total user"
+msgstr "totale gebruiker"
+
+msgid "Total City"
+msgstr "Totaal stad"
+
+msgid "Contact"
+msgstr "Contactpersoon"
+
+msgid "Follow us"
+msgstr "Volg ons"
+
+msgid "Back to top"
+msgstr "Naar boven"
+
+msgid "Top"
+msgstr "Top"
+
+#: function.php start
+msgid "ie. PHP Programmer"
+msgstr "bijv. PHP Programmeur"
+
+#: user-item.php
+msgid "My ads"
+msgstr "Mijn advertenties"
+
+msgid "Manage my ads"
+msgstr "Beheer mijn advertenties"
+
+msgid "My alerts"
+msgstr "Mijn meldingen"
+
+msgid "Edit profile"
+msgstr "Profiel bewerken"
+
+msgid "Change email"
+msgstr "Wijzig e-mail"
+
+msgid "Change password"
+msgstr "Wachtwoord aanpassen"
+
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: header.php start
+msgid "Home"
+msgstr "Home"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Hi %s"
+msgstr "Hallo %s"
+
+msgid "My account"
+msgstr "Mijn account"
+
+msgid "Hi Guest!"
+msgstr "Hallo gast!"
+
+msgid "Login"
+msgstr "Aanmelden"
+
+msgid "Register"
+msgstr "Registreren"
+
+msgid "Post new ads"
+msgstr "Plaats nieuwe advertenties"
+
+#: item.php start
+msgid "Seller profile"
+msgstr "Profiel van de verkoper"
+
+msgid "Ads expired"
+msgstr "Verlopen"
+
+msgid "Send mail"
+msgstr "Verstuur mail"
+
+msgid "View profile"
+msgstr "Profiel bekijken"
+
+msgid "Unregistered"
+msgstr "Ongeregistreerd"
+
+msgid "Seller information"
+msgstr "Verkoper Informatie"
+
+msgid "The ads is expired. You can't contact the publisher."
+msgstr ""
+"De advertentie is verlopen, U kunt geen contact opnemen met de adverteerder."
+
+msgid "It's your own ads, you can't contact the publisher."
+msgstr "Dit is uw eigen advertentie, U kunt geen contact met uzelf opnemen."
+
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"U moet inloggen of registreer een nieuw account om contact op te nemen met "
+"de adverteerder"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone"
+msgstr "Telefoon"
+
+msgid "Cell phone"
+msgstr "Mobiele telefoon"
+
+msgid "Send email"
+msgstr "Verzend e-mail"
+
+msgid "Register for a free account"
+msgstr "Registreer een gratis account"
+
+msgid "Your e-mail"
+msgstr "Je Email "
+
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+msgid "Attachment"
+msgstr "Bijlage"
+
+msgid "Enter the words above"
+msgstr "Voer de bovenstaande woorden in"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Send"
+msgstr "Verstuur"
+
+msgid "Location"
+msgstr "Woonplaats"
+
+msgid "Edit"
+msgstr "Bewerk"
+
+msgid "Share"
+msgstr "Deel"
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "Detail"
+msgstr "Info"
+
+msgid "More information"
+msgstr "Meer informatie"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Views"
+msgstr "Weergave"
+
+msgid "Modified"
+msgstr "Gewijzigd"
+
+msgid "Comments"
+msgstr "Reacties"
+
+msgid "Delete your comment"
+msgstr "Verwijder uw reactie"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "No comments added yet. Be first to leave comment!"
+msgstr "Geen reacties nog toegevoegd. Als eerste om commentaar te verlaten!"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Comment"
+msgstr "Commentaar"
+
+msgid "Submit comment"
+msgstr "Commentaar toevoegen"
+
+msgid "Useful information"
+msgstr "Nuttige informatie"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Voorkom oplichting door lokaal handelen of het betalen met PayPal"
+
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Nooit betalen met Western Union, Moneygram of andere anonieme "
+"betalingsdiensten"
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Niet kopen of buiten verkopen van uw land. Heeft kassierscontroles van "
+"buiten uw land niet accepteren"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Deze site is nooit betrokken bij een transactie, en niet omgaan met "
+"betalingen, verzending, garantie transacties, om te voorzien escrow "
+"diensten, of aanbod &quot;koper bescherming&quot; of &quot;verkoper "
+"certificering&quot"
+
+msgid "Related ads"
+msgstr "Gerelateerde Advertenties"
+
+#: item-post.php start
+msgid "General Information"
+msgstr "Algemene informatie"
+
+msgid "Select a category"
+msgstr "Selecteer een categorie"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Ads Location"
+msgstr "Locatie van de advertenties"
+
+msgid "City Area"
+msgstr "stadsgebied"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Show e-mail on the ads page"
+msgstr "Toon e-mail op de pagina advertenties"
+
+msgid "Update"
+msgstr "Bijwerken"
+
+msgid "Publish"
+msgstr "Publiceren"
+
+#: item-send-friend.php start
+msgid "Share ads"
+msgstr "Delen van advertenties"
+
+msgid "Send to a friend"
+msgstr "Verstuur naar een vriend"
+
+msgid "Your friend's name"
+msgstr "Naam van uw vriend"
+
+msgid "Your friend's e-mail address"
+msgstr "Vriend e-mailadres"
+
+#: main.php start
+msgid "All categories"
+msgstr "Alle categorieën"
+
+#: related.php start
+msgid "Premium"
+msgstr "Premium"
+
+#: search.php start
+msgid "All result"
+msgstr "Resultaat"
+
+msgid "Personal"
+msgstr "Persoonlijk"
+
+msgid "Company"
+msgstr "Bedrijf"
+
+msgid "View in gallery"
+msgstr "Kijk in gallery"
+
+msgid "View in list"
+msgstr "Toon in lijst"
+
+msgid "View in large galley"
+msgstr "Bekijken in de drukproef-groot"
+
+msgid "Result"
+msgstr "Resultaat"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d -%2$d van %3$d lijsten"
+
+msgid "Sort by"
+msgstr "Sorteer op"
+
+msgid "There are no results matching \"%s\""
+msgstr "Er zijn geen resultaten die overeenkomen met \"%s\""
+
+msgid "Your search"
+msgstr "Uw zoekopdracht"
+
+msgid "Show only ads with images"
+msgstr "Toon alleen advertenties met foto 's"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Pas toe"
+
+#: user-alert.php start
+msgid "My alert"
+msgstr "Opgepast"
+
+msgid "You do not have any alerts yet"
+msgstr "U heeft nog geen meldingen"
+
+msgid "Alert"
+msgstr "Waarschuwing"
+
+msgid "Delete this alert"
+msgstr "Verwijder deze melding"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+"Deze handeling kan niet ongedaan worden gemaakt. Weet u zeker dat u door "
+"wilt gaan?"
+
+#: user-change_email.php start
+msgid "Change your e-mail"
+msgstr "Verander uw e-mail"
+
+msgid "Current e-mail"
+msgstr "Huidig e-mail"
+
+msgid "New e-mail"
+msgstr "Nieuwe e-mail"
+
+#: user-change_password.php start
+msgid "Change your password"
+msgstr "Wijzig je wachtwoord"
+
+msgid "New password"
+msgstr "Nieuw wachtwoord"
+
+msgid "Current password"
+msgstr "Huidig wachtwoord"
+
+msgid "Repeat new password"
+msgstr "Het nieuwe wachtwoord herhalen"
+
+#: user-change_username.php start
+msgid "Change your username"
+msgstr "Wijzig mijn gebruikersnaam"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"Waarschuwing: Eenmaal ingesteld, zal u niet zitten kundig voor uw "
+"gebruikersnaam opnieuw wijzigt. Kies verstandig."
+
+msgid "Forgot password?"
+msgstr "Wachtwoord vergeten?"
+
+msgid "Access your account"
+msgstr "Login in uw account"
+
+msgid "Remember me"
+msgstr "Onthoud gegevens"
+
+msgid "Don't have an account!"
+msgstr "Heb je nog geen account!"
+
+msgid "Register here"
+msgstr "Registreer hier"
+
+msgid "Update your profile"
+msgstr "Update uw profiel"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "User type"
+msgstr "Gebruikerstype"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Delete my account"
+msgstr "Verwijder account"
+
+msgid "User Description"
+msgstr "Gebruiker Beschrijving"
+
+msgid "Ads from %s"
+msgstr "Advertenties van %s"
+
+msgid "Recover your password"
+msgstr "Herstel uw wachtwoord"
+
+msgid "Send me a new password"
+msgstr "Stuur nieuw wachtwoord"
+
+msgid "Create new account"
+msgstr "Nieuw account maken"
+
+msgid "Re-type password"
+msgstr "Typ het wachtwoord opnieuw"
+
+msgid "Passwords don't match"
+msgstr "Wachtwoorden komen niet overeen"
+
+msgid "I agree to the"
+msgstr "Ik ga akkoord met de"
+
+msgid "Terms of Use"
+msgstr "Algemene voorwaarden"
+
+msgid "Already have an account?"
+msgstr "Heeft u al een account?"
+
+msgid "Your contact info"
+msgstr "Contactinformatie"
+
+msgid "Insert number"
+msgstr "Nummer in te vullen"
+
+msgid "No file selected"
+msgstr "Geen bestand geselecteerd"
+
+msgid "Choose File"
+msgstr "﻿Kies bestand"
+
+msgid "Select a region"
+msgstr "Selecteer een regio"
+
+msgid "Select a city"
+msgstr "Selecteer een stad"
+
+msgid "Select a country"
+msgstr "Selecteer een land"
+
+msgid "No Latest ads"
+msgstr "Nieuwste advertenties"
+
+msgid "You not have ads"
+msgstr "Hebt u geen advertenties"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+"Deze handeling kan niet ongedaan worden gemaakt. Weet u zeker dat u door "
+"wilt gaan?"
+
+msgid "See all ads"
+msgstr "Zie alle advertenties"
+
+msgid "Activate"
+msgstr "Activeer"
+
+msgid "Browse categories"
+msgstr "Blader door Categorieën"
+
+msgid "Seller's information"
+msgstr "Verkopers informatie"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Registered"
+msgstr "Geregistreerd"
+
+msgid "Phone number not available"
+msgstr "Telefoonnummer niet beschikbaar"
+
+msgid "Images already uploaded"
+msgstr "Beelden al geüpload"
+
+msgid "Change profile picture"
+msgstr "Verander profiel foto"
+
+msgid "Delete account button"
+msgstr "Verwijderen van de knoop van de rekening"
+
+msgid "Yes"
+msgstr "Ja."
+
+msgid "No"
+msgstr "Nee"
+
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"Al uw advertenties en meldingen worden verwijderd, Deze actie kan niet "
+"ongedaan worden gemaakt."
+
+msgid "Delete account"
+msgstr "Verwijder mijn account"
+
+msgid "Header search button"
+msgstr "Koptekst zoekknop"
+
+msgid "Use custom color"
+msgstr "Aangepaste kleur gebruiken?"
+
+msgid "Use default color"
+msgstr "Gebruik standaard kleur"
+
+msgid "Custom color"
+msgstr "Aangepaste kleur"
+
+msgid "Right sidebar ads"
+msgstr "Rechter sidebar"
+
+msgid "Left sidebar ads"
+msgstr "Linker sidebar"

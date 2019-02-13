@@ -1,0 +1,884 @@
+# Copyright (C) 2017 OsclassMe
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassDotMe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-13 10:18+0700\n"
+"Language-Team: Translations <cs@osclass.me>\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Last-Translator: \n"
+"Language: uk\n"
+
+#: 404.php start
+msgid "404 Not Found"
+msgstr "404 Не Знайдено"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "На жаль, сталася помилка, Запрошена Вами сторінка не знайдена!"
+
+msgid "Take me home"
+msgstr "Відвези Мене Додому"
+
+msgid "or"
+msgstr "або"
+
+msgid "Contact support"
+msgstr "Звернутися в службу підтримки"
+
+#: admin/category.php start
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Upload"
+msgstr "Відвантажити"
+
+msgid "Recommended size"
+msgstr "Рекомендовано"
+
+msgid "Category Images"
+msgstr "Категорія зображень"
+
+#: admin/general.php start
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+msgid "Search Placeholder"
+msgstr "Search Placeholder"
+
+msgid "Search"
+msgstr "Пошук"
+
+msgid "Welcome text"
+msgstr "Вітаємо"
+
+msgid "Welcome to classifieds"
+msgstr "Ласкаво просимо на оголошення"
+
+msgid "Insert your welcome text"
+msgstr "Вставити текст привітання"
+
+msgid "Header search butoon"
+msgstr "Пошук butoon заголовка"
+
+msgid "Show"
+msgstr "Показати"
+
+msgid "Hide"
+msgstr "Приховати"
+
+msgid "Show tab content"
+msgstr "Вміст вкладки"
+
+msgid "Premium ads"
+msgstr "Премiум"
+
+msgid "Latest ads"
+msgstr "Недавні оголошення"
+
+msgid "All category"
+msgstr "Вся категорія"
+
+msgid "Show category count"
+msgstr "Показати кількість постів категорії?"
+
+msgid "Premium ads count"
+msgstr "Розраховуйте Premium Оголошення"
+
+msgid "Latest ads count"
+msgstr "Останнім підрахунками оголошень"
+
+msgid "Search premium ads"
+msgstr "Premium оголошення в Пошуковій мережі"
+
+msgid "Related ads count"
+msgstr "Пов'язані оголошення кол"
+
+msgid "Footer Copyright"
+msgstr "Текст авторського права у футері"
+
+msgid "Copyright All right reserved"
+msgstr "Copyright Всі права застережено"
+
+msgid "Copyright text on footer."
+msgstr "Авторських тексту на нижній колонтитул."
+
+msgid "Element settings"
+msgstr "Елемент настройки"
+
+msgid "Show lists as"
+msgstr "Відображення списків як"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "List"
+msgstr "Список"
+
+msgid "Large gallery"
+msgstr "Велика галерея"
+
+msgid "Search form"
+msgstr "Форма пошуку"
+
+msgid "Region"
+msgstr "область"
+
+msgid "City"
+msgstr "Місто"
+
+msgid "Country"
+msgstr "Країна"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Show main category images"
+msgstr "Показати основні категорії зображення"
+
+msgid "Show footer statistic"
+msgstr "Відображення колонтитула статистика"
+
+msgid "Footer widget"
+msgstr "Зона Віджета Футера"
+
+msgid "Widget title"
+msgstr "Заголовок віджету"
+
+msgid "Your title"
+msgstr "Заголовок"
+
+msgid "Widget content"
+msgstr "Віджет вміст"
+
+msgid "Insert your title and widget"
+msgstr "Вставити заголовок і віджетів"
+
+msgid "Color settings"
+msgstr "Налаштування кольорів"
+
+msgid "Select color Scheme"
+msgstr "Виберіть колір"
+
+msgid "Theme Color"
+msgstr "Колір теми"
+
+msgid "Background color"
+msgstr "Колір фону"
+
+msgid "Price color"
+msgstr "Ціна кольору"
+
+msgid "Footer color"
+msgstr "Footer Text color"
+
+msgid "Footer background"
+msgstr "Footer background"
+
+msgid "Ads space"
+msgstr "простір"
+
+msgid "Insert your ads code"
+msgstr "Введіть код оголошення"
+
+msgid "Header ads"
+msgstr "Заголовку оголошення"
+
+msgid "Footer ads"
+msgstr "Нижній колонтитул оголошень"
+
+msgid "Sidebar ads"
+msgstr "Сайдбар"
+
+msgid "Search page ads"
+msgstr "Сторінка пошуку"
+
+msgid "Social media"
+msgstr "Соціальні медіа"
+
+msgid "More"
+msgstr "Більше"
+
+msgid "Term of use link"
+msgstr "Термін користування"
+
+msgid "Useful title"
+msgstr "Корисні заголовок"
+
+msgid "Your useful title"
+msgstr "Корисні заголовок"
+
+msgid "Useful content"
+msgstr "Корисний контент"
+
+msgid "Insert your useful content"
+msgstr "Вставити корисний контент"
+
+msgid "Leave blank if you want to use default useful info"
+msgstr ""
+"Залиште поля пустими, якщо ви хочете використовувати за замовчуванням "
+"корисна інформація"
+
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+#: admin/info.php start
+msgid "Update and Fixed"
+msgstr "Оновлення та фіксованого"
+
+msgid "Version"
+msgstr "Версія"
+
+msgid "Ask and support"
+msgstr "Просіть і підтримка"
+
+msgid "If you have problem or bugs in theme, please report"
+msgstr "Якщо у вас проблеми або помилки в темі, будь ласка, повідомте про"
+
+msgid "Click here"
+msgstr "Натисніть тут"
+
+msgid "for ask or support"
+msgstr "для ask або підтримки"
+
+msgid "Support this theme"
+msgstr "Підтримує цю тему"
+
+msgid "If you happy for this theme, please give support for this theme"
+msgstr ""
+"Якщо ви щасливі для цієї теми, будь ласка, дайте підтримки для цієї теми"
+
+msgid "for give 5 rating star"
+msgstr "для дати 5 зірок рейтинг"
+
+#: admin/logo.php start
+msgid "The image has been uploaded correctly"
+msgstr "Зображення завантажено правильно"
+
+msgid "An error has occurred, please try again"
+msgstr "Сталася помилка, будь ласка, спробуйте ще раз"
+
+msgid "The image has been removed"
+msgstr "Зображення видалено"
+
+msgid "Image not found"
+msgstr "Зображення не знайдено"
+
+msgid "Settings images"
+msgstr "Налаштування зображень"
+
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+msgid "You not upload any images"
+msgstr "Ви не завантажувати будь-які зображення"
+
+msgid "Favicon images"
+msgstr "Favicon зображень"
+
+msgid "The images folder %s is not writable on your server"
+msgstr ""
+"Папка зображень <strong>%s</strong> не доступна для запису на вашому сервері"
+
+msgid "Osclass can't upload logo image from the administration panel"
+msgstr "Не вдається завантажити зображення з панелі управління."
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Будь ласка, не зазначені зображення папку для запису"
+
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell"
+msgstr ""
+"Щоб зробити каталог доступний для запису в UNIX виконайте цю команду з "
+"терміналу"
+
+#: admin/settings.php start
+msgid "By"
+msgstr "Автор"
+
+msgid "General"
+msgstr "Загальні"
+
+msgid "Logo and Favicon"
+msgstr "Логотип та значок"
+
+msgid "Category images"
+msgstr "Категорія зображень"
+
+msgid "Update and support"
+msgstr "Оновлення та підтримки"
+
+#: alert-form.php start
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Ви успішно підписані на оповіщення"
+
+msgid "Invalid email address"
+msgstr "Невірну адресу електронної пошти"
+
+msgid "There was a problem with the alert"
+msgstr "Був проблема з попередженням"
+
+msgid "Subscribe to this search"
+msgstr "Підписатися на цей пошук"
+
+msgid "Subscribe now"
+msgstr "Підпишіться зараз"
+
+#: contact.php start
+msgid "Contact us"
+msgstr "Зв'язатися з нами"
+
+msgid "Contact administrator"
+msgstr "Зверніться до адміністратора"
+
+msgid "Your name"
+msgstr "Ваше ім'я"
+
+msgid "optional"
+msgstr "Необоз'язкові залежності"
+
+msgid "Your e-mail address"
+msgstr "Ваш e-mail"
+
+msgid "Subject"
+msgstr "Організація"
+
+msgid "Message"
+msgstr "Повідомлення"
+
+msgid "Send messages"
+msgstr "Надіслати повідомлення"
+
+#: custom.php start
+msgid "Pages"
+msgstr "Сторінки"
+
+#: footer.php start
+msgid "Active ads"
+msgstr "Активний"
+
+msgid "in"
+msgstr "у"
+
+msgid "Total user"
+msgstr "Загальна сума"
+
+msgid "Total City"
+msgstr "Всього міста"
+
+msgid "Contact"
+msgstr "Контакт"
+
+msgid "Follow us"
+msgstr "Слідкуйте за нами"
+
+msgid "Back to top"
+msgstr "Назад к"
+
+msgid "Top"
+msgstr "Зверху"
+
+#: function.php start
+msgid "ie. PHP Programmer"
+msgstr "т.е .. PHP програміст"
+
+#: user-item.php
+msgid "My ads"
+msgstr "Мої оголошення"
+
+msgid "Manage my ads"
+msgstr "Управління мої оголошення"
+
+msgid "My alerts"
+msgstr "Повідомлення"
+
+msgid "Edit profile"
+msgstr "Редагувати профіль"
+
+msgid "Change email"
+msgstr "Змінити e-mail"
+
+msgid "Change password"
+msgstr "Пароль"
+
+msgid "Logout"
+msgstr "Логін"
+
+#: header.php start
+msgid "Home"
+msgstr "Головна"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Hi %s"
+msgstr "Привіт%s"
+
+msgid "My account"
+msgstr "Мій кабінет"
+
+msgid "Hi Guest!"
+msgstr "Привіт, Гість!"
+
+msgid "Login"
+msgstr "Увійти"
+
+msgid "Register"
+msgstr "Реєстрація"
+
+msgid "Post new ads"
+msgstr "Розмістити нові оголошення"
+
+#: item.php start
+msgid "Seller profile"
+msgstr "Продавець профілю"
+
+msgid "Ads expired"
+msgstr "Завершено"
+
+msgid "Send mail"
+msgstr "Надіслати листа"
+
+msgid "View profile"
+msgstr "Переглянути профіль"
+
+msgid "Unregistered"
+msgstr "незареєстроване"
+
+msgid "Seller information"
+msgstr "Інформація про продавця"
+
+msgid "The ads is expired. You can't contact the publisher."
+msgstr "Оголошення минуло. Ви не можете зв'язатись з продавцем."
+
+msgid "It's your own ads, you can't contact the publisher."
+msgstr "Це ваше оголошення, ви не можете зв'язатись з продавцем."
+
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"Ви повинні увійти в систему або зареєструйте новий акаунт для того, щоб "
+"зв&#39;язатися з рекламодавцем"
+
+msgid "Email"
+msgstr "Email (ел. адреса)"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Cell phone"
+msgstr "мобільний телефон"
+
+msgid "Send email"
+msgstr "Відправити"
+
+msgid "Register for a free account"
+msgstr "Реєстрація на безкоштовний акаунт"
+
+msgid "Your e-mail"
+msgstr "Вашу адресу електронної пошти"
+
+msgid "Phone number"
+msgstr "Телефонний номер"
+
+msgid "Attachment"
+msgstr "Прикріплення"
+
+msgid "Enter the words above"
+msgstr "Введіть слова вище"
+
+msgid "Help"
+msgstr "Допомога"
+
+msgid "Send"
+msgstr "Надіслати"
+
+msgid "Location"
+msgstr "Розташування"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Share"
+msgstr "Поділитись"
+
+msgid "Image"
+msgstr "Зображення"
+
+msgid "Detail"
+msgstr "Подробиці"
+
+msgid "More information"
+msgstr "Додаткові відомості"
+
+msgid "Categories"
+msgstr "Категорії"
+
+msgid "Views"
+msgstr "Перегляди"
+
+msgid "Modified"
+msgstr "Змінено"
+
+msgid "Comments"
+msgstr "Коментарі"
+
+msgid "Delete your comment"
+msgstr "Видалити коментар"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "No comments added yet. Be first to leave comment!"
+msgstr "Коментарів поки немає. Будьте першим, хто залишить свій коментар!"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Comment"
+msgstr "Коментар"
+
+msgid "Submit comment"
+msgstr "Опублікувати"
+
+msgid "Useful information"
+msgstr "Корисна інформація"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Щоб уникнути шахрайства, або платіть з PayPal"
+
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Ніколи не платите з Western Union, Moneygram та інші анонімні платіжні "
+"системи"
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Не купуйте і не продавайте за межами вашої країни. Не приймайте банківські "
+"чеки за межами вашої країни"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Цей сайт ніколи не бере участі в угодах і не проводить платежі, доставку, не "
+"гарантує угоди, не гарантує угоди і не надає &quot;захист покупцям&quot; або "
+"&quot;сертифікацію продавцям&quot;"
+
+msgid "Related ads"
+msgstr "Пов'язані оголошення"
+
+#: item-post.php start
+msgid "General Information"
+msgstr "Загальна інформація"
+
+msgid "Select a category"
+msgstr "Виберіть категорію"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Price"
+msgstr "Ціна"
+
+msgid "Ads Location"
+msgstr "Місцезнаходження"
+
+msgid "City Area"
+msgstr "Місто Площа"
+
+msgid "Address"
+msgstr "Адреса"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Show e-mail on the ads page"
+msgstr "Показувати ел. адресу на сторінці"
+
+msgid "Update"
+msgstr "Оновити"
+
+msgid "Publish"
+msgstr "Опублікувати"
+
+#: item-send-friend.php start
+msgid "Share ads"
+msgstr "Поділитися"
+
+msgid "Send to a friend"
+msgstr "Надіслати другу"
+
+msgid "Your friend's name"
+msgstr "Ваше ім'я"
+
+msgid "Your friend's e-mail address"
+msgstr "Адреса електронної пошти Вашого друга"
+
+#: main.php start
+msgid "All categories"
+msgstr "Усі категорії"
+
+#: related.php start
+msgid "Premium"
+msgstr "Премiум"
+
+#: search.php start
+msgid "All result"
+msgstr "Результат"
+
+msgid "Personal"
+msgstr "Особисті дані"
+
+msgid "Company"
+msgstr "Компанія"
+
+msgid "View in gallery"
+msgstr "Галереї"
+
+msgid "View in list"
+msgstr "Переглянути список"
+
+msgid "View in large galley"
+msgstr "Переглянути у великих галерея"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "% 1$d - %2$d з %3$d пропозицій"
+
+msgid "Sort by"
+msgstr "Сортувати за"
+
+msgid "There are no results matching \"%s\""
+msgstr "Там немає результатів, відповідних &quot;%s&quot;"
+
+msgid "Your search"
+msgstr "Ваш пошук"
+
+msgid "Show only ads with images"
+msgstr "Показувати тільки оголошення із зображеннями"
+
+msgid "Min"
+msgstr "Хв"
+
+msgid "Max"
+msgstr "макс."
+
+msgid "Apply"
+msgstr "Застосувати"
+
+#: user-alert.php start
+msgid "My alert"
+msgstr "повідомлення"
+
+msgid "You do not have any alerts yet"
+msgstr "Ви не мають жодних попереджень поки"
+
+msgid "Alert"
+msgstr "Тривога"
+
+msgid "Delete this alert"
+msgstr "Видалити це сповіщення"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Ця дія не може бути скасоване. Ви впевнені, що хочете продовжити?"
+
+#: user-change_email.php start
+msgid "Change your e-mail"
+msgstr "Змінити свою адресу електронної пошти"
+
+msgid "Current e-mail"
+msgstr "Поточний адресу електронної пошти"
+
+msgid "New e-mail"
+msgstr "Нова адреса електронної пошти"
+
+#: user-change_password.php start
+msgid "Change your password"
+msgstr "Змінити пароль"
+
+msgid "New password"
+msgstr "Новий пароль"
+
+msgid "Current password"
+msgstr "Поточний пароль"
+
+msgid "Repeat new password"
+msgstr "Для перевірки на помилку вводу"
+
+#: user-change_username.php start
+msgid "Change your username"
+msgstr "Змінити ім'я користувача"
+
+msgid "Username"
+msgstr "Псевдонім"
+
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"ПОПЕРЕДЖЕННЯ: Один раз встановити, не можна змінити ім'я користувача знову. "
+"Вибирайте з розумом."
+
+msgid "Forgot password?"
+msgstr "Забули Пароль?"
+
+msgid "Access your account"
+msgstr "Доступ до Вашого аккаунта"
+
+msgid "Remember me"
+msgstr "Запам'ятати мене"
+
+msgid "Don't have an account!"
+msgstr "У вас немає аккаунта?"
+
+msgid "Register here"
+msgstr "Register"
+
+msgid "Update your profile"
+msgstr "Оновити профіль"
+
+msgid "Cancel"
+msgstr "Відмінити"
+
+msgid "User type"
+msgstr "Тип користувача"
+
+msgid "Website"
+msgstr "Вебсайт"
+
+msgid "Delete my account"
+msgstr "Видалити мою обліковий запис"
+
+msgid "User Description"
+msgstr "Користувач Опис"
+
+msgid "Ads from %s"
+msgstr "Реклама від %s"
+
+msgid "Recover your password"
+msgstr "Відновити пароль"
+
+msgid "Send me a new password"
+msgstr "Відправити мені новий пароль"
+
+msgid "Create new account"
+msgstr "Створити новий рахунок"
+
+msgid "Re-type password"
+msgstr "Введіть пароль ще раз"
+
+msgid "Passwords don't match"
+msgstr "Паролі не співпадають"
+
+msgid "I agree to the"
+msgstr "Я згоден"
+
+msgid "Terms of Use"
+msgstr "Умови експлуатації"
+
+msgid "Already have an account?"
+msgstr "Вже є аккаунт?"
+
+msgid "Your contact info"
+msgstr "Контактні дані"
+
+msgid "Insert number"
+msgstr "Вставити номер"
+
+msgid "No file selected"
+msgstr "файл не обраний"
+
+msgid "Choose File"
+msgstr "Оберіть файл"
+
+msgid "Select a region"
+msgstr "Оберіть регіон"
+
+msgid "Select a city"
+msgstr "Виберіть місто"
+
+msgid "Select a country"
+msgstr "Виберіть Країну"
+
+msgid "No Latest ads"
+msgstr "Останні оголошення"
+
+msgid "You not have ads"
+msgstr "Ви успішно підписані на оповіщення"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Ця дія не може бути скасоване. Ви впевнені, що хочете продовжити?"
+
+msgid "See all ads"
+msgstr "Переглянути всі оголошення"
+
+msgid "Activate"
+msgstr "Активувати"
+
+msgid "Browse categories"
+msgstr "Категорії"
+
+msgid "Seller's information"
+msgstr "Інформація продавця"
+
+msgid "Name"
+msgstr "Ім'я"
+
+msgid "Registered"
+msgstr "Зареєстрований"
+
+msgid "Phone number not available"
+msgstr "Номер телефону не доступний"
+
+msgid "Images already uploaded"
+msgstr "Зображення вже завантажили"
+
+msgid "Change profile picture"
+msgstr "Змінити фото профілю"
+
+msgid "Delete account button"
+msgstr "Видалити обліковий запис кнопку"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr "Буде видалено всі входження й оповіщення, цю дію не можна скасувати."
+
+msgid "Delete account"
+msgstr "Видалити аккаунт"
+
+msgid "Header search button"
+msgstr "Заголовок кнопки пошуку"
+
+msgid "Use custom color"
+msgstr "Нетиповий колір:"
+
+msgid "Use default color"
+msgstr "Колір за умовчанням"
+
+msgid "Custom color"
+msgstr "Користувацький колір"
+
+msgid "Right sidebar ads"
+msgstr "Бокова панель праворуч"
+
+msgid "Left sidebar ads"
+msgstr "Бокова панель ліворуч"

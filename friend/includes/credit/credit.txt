@@ -1,0 +1,14 @@
+================ Credit and special thanks =====================
+
+1 - Osclass.ORG https://osclass.org
+    This is number #1 CMS for Classified site
+    
+2 - Bootstrap https://getbootstrap.com/
+    The best framework for website starter
+
+3 - Font Awesome  http://fontawesome.io
+    The best font Icon in the world
+    
+4 - Bootflat  http://bootflat.github.io
+
+5 - Pixelbay.com and All free Images source

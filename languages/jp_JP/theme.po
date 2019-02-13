@@ -1,0 +1,888 @@
+# Copyright (C) 2017 OsclassMe
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassDotMe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-12 10:18+0700\n"
+"Language-Team: Translations <cs@osclass.me>\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+
+#: 404.php start
+msgid "404 Not Found"
+msgstr "404 見つかりません"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr ""
+"申し訳ありませんが、エラーが発生しました。要求されたページが見つかりません！"
+
+msgid "Take me home"
+msgstr "私を家に連れて行ってくれ"
+
+msgid "or"
+msgstr "または"
+
+msgid "Contact support"
+msgstr "サポートに問い合わせる"
+
+#: admin/category.php start
+msgid "Remove"
+msgstr "削除"
+
+msgid "Upload"
+msgstr "アップロード"
+
+msgid "Recommended size"
+msgstr "推奨"
+
+msgid "Category Images"
+msgstr "カテゴリ画像"
+
+#: admin/general.php start
+msgid "General Settings"
+msgstr "基本設定"
+
+msgid "Search Placeholder"
+msgstr "検索プレースホルダ"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Welcome text"
+msgstr "ウェルカムテキスト"
+
+msgid "Welcome to classifieds"
+msgstr "クラシファイドへようこそ"
+
+msgid "Insert your welcome text"
+msgstr "ようこそテキストを挿入します。"
+
+msgid "Header search butoon"
+msgstr "ヘッダー検索 butoon"
+
+msgid "Show"
+msgstr "表示"
+
+msgid "Hide"
+msgstr "非表示"
+
+msgid "Show tab content"
+msgstr "タブの内容"
+
+msgid "Premium ads"
+msgstr "スポンサー様広告"
+
+msgid "Latest ads"
+msgstr "最新の広告"
+
+msgid "All category"
+msgstr "すべての地域カテゴリー"
+
+msgid "Show category count"
+msgstr "カテゴリ数の表示"
+
+msgid "Premium ads count"
+msgstr "プレミアム広告をカウントします。"
+
+msgid "Latest ads count"
+msgstr "最新の広告数"
+
+msgid "Search premium ads"
+msgstr "プレミアム広告を検索"
+
+msgid "Related ads count"
+msgstr "関連する広告数"
+
+msgid "Footer Copyright"
+msgstr "フッターコピーライト"
+
+msgid "Copyright All right reserved"
+msgstr "著作権すべての権利予約"
+
+msgid "Copyright text on footer."
+msgstr "フッターに著作権のテキスト。"
+
+msgid "Element settings"
+msgstr "要素(Element)の設定"
+
+msgid "Show lists as"
+msgstr "リストを表示するように"
+
+msgid "Gallery"
+msgstr "ギャラリー:"
+
+msgid "List"
+msgstr "リスト"
+
+msgid "Large gallery"
+msgstr "大勢のギャラリー"
+
+msgid "Search form"
+msgstr "表示検索フォーム閉じるアイコン"
+
+msgid "Region"
+msgstr "都道府県"
+
+msgid "City"
+msgstr "市区町村"
+
+msgid "Country"
+msgstr "国名"
+
+msgid "Category"
+msgstr "カテゴリー"
+
+msgid "Show main category images"
+msgstr "主なカテゴリの画像を表示します。"
+
+msgid "Show footer statistic"
+msgstr "フッターの統計を表示します。"
+
+msgid "Footer widget"
+msgstr "フッターのウィジェット"
+
+msgid "Widget title"
+msgstr "ウィジェットタイトル"
+
+msgid "Your title"
+msgstr "あなたの肩書き"
+
+msgid "Widget content"
+msgstr "ウィジェット コンテンツ"
+
+msgid "Insert your title and widget"
+msgstr "タイトルとウィジェットを挿入します。"
+
+msgid "Color settings"
+msgstr "色の設定"
+
+msgid "Select color Scheme"
+msgstr "配色の選択"
+
+msgid "Theme Color"
+msgstr "テーマ色"
+
+msgid "Background color"
+msgstr "背景色"
+
+msgid "Price color"
+msgstr "金額の色"
+
+msgid "Footer color"
+msgstr "フッターの文字色"
+
+msgid "Footer background"
+msgstr "フッターの背景"
+
+msgid "Ads space"
+msgstr "広告スペース"
+
+msgid "Insert your ads code"
+msgstr "あなたの広告コードを挿入します。"
+
+msgid "Header ads"
+msgstr "ヘッダー広告"
+
+msgid "Footer ads"
+msgstr "フッター広告"
+
+msgid "Sidebar ads"
+msgstr "サイドバー広告"
+
+msgid "Search page ads"
+msgstr "検索ページ"
+
+msgid "Social media"
+msgstr "ソーシャルメディア"
+
+msgid "More"
+msgstr "更に"
+
+msgid "Term of use link"
+msgstr "リンクを使っての用語"
+
+msgid "Useful title"
+msgstr "便利なタイトル"
+
+msgid "Your useful title"
+msgstr "あなたの便利なタイトル"
+
+msgid "Useful content"
+msgstr "便利なコンテンツ"
+
+msgid "Insert your useful content"
+msgstr "あなたの役に立つコンテンツを挿入します。"
+
+msgid "Leave blank if you want to use default useful info"
+msgstr "既定の有用な情報を使用したい場合は、空白のままに"
+
+msgid "Save changes"
+msgstr "変更を保存"
+
+#: admin/info.php start
+msgid "Update and Fixed"
+msgstr "更新し、修正"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Ask and support"
+msgstr "質問し、サポート"
+
+msgid "If you have problem or bugs in theme, please report"
+msgstr "テーマに問題やバグがあれば、報告してください。"
+
+msgid "Click here"
+msgstr "ここをクリック"
+
+msgid "for ask or support"
+msgstr "質問やサポートについて"
+
+msgid "Support this theme"
+msgstr "このテーマをサポートします。"
+
+msgid "If you happy for this theme, please give support for this theme"
+msgstr "あなたはこのテーマの幸せしてくださいこのテーマのサポートを与える場合"
+
+msgid "for give 5 rating star"
+msgstr "5 つ星の評価を与える"
+
+#: admin/logo.php start
+msgid "The image has been uploaded correctly"
+msgstr "画像が正しくアップロードされています。"
+
+msgid "An error has occurred, please try again"
+msgstr "エラーが発生しました。もう一度お試しください"
+
+msgid "The image has been removed"
+msgstr "イメージを削除します。"
+
+msgid "Image not found"
+msgstr "画像が見つかりません"
+
+msgid "Settings images"
+msgstr "設定画像"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "You not upload any images"
+msgstr "任意の画像をアップロードできません。"
+
+msgid "Favicon images"
+msgstr "ファビコン画像"
+
+msgid "The images folder %s is not writable on your server"
+msgstr ""
+"お使いのサーバーでは、画像フォルダ <strong>%s</strong> は書き込み可能ではあり"
+"ません"
+
+msgid "Osclass can't upload logo image from the administration panel"
+msgstr "OSClass は、管理パネルからロゴ画像をアップロードできません。"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "上記画像フォルダーを書き込み可能にしてください。"
+
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell"
+msgstr ""
+"UNIXでディレクトリを書き込み可能にするには、シェルから以下のコマンドを実行し"
+"てください"
+
+#: admin/settings.php start
+msgid "By"
+msgstr "による"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Logo and Favicon"
+msgstr "ロゴやファビコン"
+
+msgid "Category images"
+msgstr "カテゴリ画像"
+
+msgid "Update and support"
+msgstr "更新とサポート"
+
+#: alert-form.php start
+msgid "You have sucessfully subscribed to the alert"
+msgstr "あなたが首尾よくアラートに登録しています"
+
+msgid "Invalid email address"
+msgstr "無効なメールアドレスです"
+
+msgid "There was a problem with the alert"
+msgstr "アラートに問題がありました"
+
+msgid "Subscribe to this search"
+msgstr "この検索購読する"
+
+msgid "Subscribe now"
+msgstr "今すぐ購読する"
+
+#: contact.php start
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+msgid "Contact administrator"
+msgstr "管理者に連絡"
+
+msgid "Your name"
+msgstr "氏名"
+
+msgid "optional"
+msgstr "オプションの"
+
+msgid "Your e-mail address"
+msgstr "メールアドレス"
+
+msgid "Subject"
+msgstr "件名"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "Send messages"
+msgstr "メッセージを送信"
+
+#: custom.php start
+msgid "Pages"
+msgstr "ページ"
+
+#: footer.php start
+msgid "Active ads"
+msgstr "アクティブな広告"
+
+msgid "in"
+msgstr "に"
+
+msgid "Total user"
+msgstr "ユーザー総数"
+
+msgid "Total City"
+msgstr "合計市"
+
+msgid "Contact"
+msgstr "連絡先"
+
+msgid "Follow us"
+msgstr "フォローする"
+
+msgid "Back to top"
+msgstr "TOPに戻る"
+
+msgid "Top"
+msgstr "トップ"
+
+#: function.php start
+msgid "ie. PHP Programmer"
+msgstr "すなわち。 PHPプログラマー"
+
+#: user-item.php
+msgid "My ads"
+msgstr "あなたの投稿した広告"
+
+msgid "Manage my ads"
+msgstr "私の広告を管理します。"
+
+msgid "My alerts"
+msgstr "マイアラート"
+
+msgid "Edit profile"
+msgstr "プロフィール編集"
+
+msgid "Change email"
+msgstr "メールアドレスの変更"
+
+msgid "Change password"
+msgstr "パスワード変更"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+#: header.php start
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Hi %s"
+msgstr "こんにちは %s"
+
+msgid "My account"
+msgstr "マイ　アカウント"
+
+msgid "Hi Guest!"
+msgstr "こんにちはゲスト！"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Register"
+msgstr "レジスタ"
+
+msgid "Post new ads"
+msgstr "新しい広告を投稿する"
+
+#: item.php start
+msgid "Seller profile"
+msgstr "販売者プロフィール"
+
+msgid "Ads expired"
+msgstr "期限切れ"
+
+msgid "Send mail"
+msgstr "メールを送る"
+
+msgid "View profile"
+msgstr "プロフィールの表示"
+
+msgid "Unregistered"
+msgstr "未登録"
+
+msgid "Seller information"
+msgstr "投稿者の情報"
+
+msgid "The ads is expired. You can't contact the publisher."
+msgstr "この広告は期限切れです。広告主に連絡する事はできません。"
+
+msgid "It's your own ads, you can't contact the publisher."
+msgstr "これはご自身が公開した広告です。連絡はできません。"
+
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"あなたは、ログインするか、広告主に連絡するために新しいアカウントを登録する必"
+"要があります"
+
+msgid "Email"
+msgstr "メールアドレス"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Cell phone"
+msgstr "携帯電話"
+
+msgid "Send email"
+msgstr "Eメールを送信"
+
+msgid "Register for a free account"
+msgstr "無料アカウントに登録"
+
+msgid "Your e-mail"
+msgstr "あなたのメールアドレス"
+
+msgid "Phone number"
+msgstr "電話番号"
+
+msgid "Attachment"
+msgstr "添付ファイル"
+
+msgid "Enter the words above"
+msgstr "上記の言葉を入力してください"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Send"
+msgstr "送信"
+
+msgid "Location"
+msgstr "場所"
+
+msgid "Edit"
+msgstr "エディット"
+
+msgid "Share"
+msgstr "シェア"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "Detail"
+msgstr "詳細"
+
+msgid "More information"
+msgstr "詳細情報"
+
+msgid "Categories"
+msgstr "カテゴリー"
+
+msgid "Views"
+msgstr "ページビュー数"
+
+msgid "Modified"
+msgstr "修正しました。"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Delete your comment"
+msgstr "あなたのコメントを削除します"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "No comments added yet. Be first to leave comment!"
+msgstr "まだ、コメントがありません。"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Comment"
+msgstr "コメント"
+
+msgid "Submit comment"
+msgstr "コメントを投稿"
+
+msgid "Useful information"
+msgstr "お役立ち情報"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "局所的に作用するか、PayPalで支払うことで詐欺を避ける"
+
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"ウェスタンユニオン、マネーグラム、または他の匿名の決済サービスで支払うことは"
+"ありません"
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"あなたの国の外で売買しないでください。あなたの国の外からレジチェックを受け入"
+"れないでください"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"このサイトは、任意のトランザクションに関与されることはありませんし、エスク"
+"ローサービスを提供し、又はオファー「買い手保護」または「販売者認定」、支払"
+"い、出荷、保証トランザクションを処理しない"
+
+msgid "Related ads"
+msgstr "関連する広告"
+
+#: item-post.php start
+msgid "General Information"
+msgstr "一般情報"
+
+msgid "Select a category"
+msgstr "カテゴリーを選択"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Price"
+msgstr "価格"
+
+msgid "Ads Location"
+msgstr "広告の場所"
+
+msgid "City Area"
+msgstr "シティ周辺"
+
+msgid "Address"
+msgstr "番地"
+
+msgid "E-mail"
+msgstr "メールアドレス"
+
+msgid "Show e-mail on the ads page"
+msgstr "広告のページに電子メールを表示します。"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Publish"
+msgstr "公開日時"
+
+#: item-send-friend.php start
+msgid "Share ads"
+msgstr "共有広告"
+
+msgid "Send to a friend"
+msgstr "友だちに送信"
+
+msgid "Your friend's name"
+msgstr "お友達のお名前"
+
+msgid "Your friend's e-mail address"
+msgstr "お友達の電子メールアドレス"
+
+#: main.php start
+msgid "All categories"
+msgstr "エリアを指定"
+
+#: related.php start
+msgid "Premium"
+msgstr "プレミアム"
+
+#: search.php start
+msgid "All result"
+msgstr "結果"
+
+msgid "Personal"
+msgstr "個人"
+
+msgid "Company"
+msgstr "会社"
+
+msgid "View in gallery"
+msgstr "ギャラリーをみる"
+
+msgid "View in list"
+msgstr "リストで表示します。"
+
+msgid "View in large galley"
+msgstr "大規模な厨房をみる"
+
+msgid "Result"
+msgstr "結果"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d  を - %2$d のリストの  %3$d "
+
+msgid "Sort by"
+msgstr "並び替え"
+
+msgid "There are no results matching \"%s\""
+msgstr "\"％s\"を一致する結果がありません"
+
+msgid "Your search"
+msgstr "検索"
+
+msgid "Show only ads with images"
+msgstr "イメージ広告のみを表示します。"
+
+msgid "Min"
+msgstr "最小数"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Apply"
+msgstr "適用"
+
+#: user-alert.php start
+msgid "My alert"
+msgstr "私の警告"
+
+msgid "You do not have any alerts yet"
+msgstr "あなたはまだ、アラートを持っていません"
+
+msgid "Alert"
+msgstr "アラート"
+
+msgid "Delete this alert"
+msgstr "このアラートを削除"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+"このアクションは、元に戻すことはできません。あなたが継続してもよろしいです"
+"か？"
+
+#: user-change_email.php start
+msgid "Change your e-mail"
+msgstr "メールアドレス変更"
+
+msgid "Current e-mail"
+msgstr "現在の電子メール"
+
+msgid "New e-mail"
+msgstr "新しい電子メール"
+
+#: user-change_password.php start
+msgid "Change your password"
+msgstr "パスワードを変更する"
+
+msgid "New password"
+msgstr "新しいパスワード"
+
+msgid "Current password"
+msgstr "現在のパスワード"
+
+msgid "Repeat new password"
+msgstr "新しいパスワードを再入力"
+
+#: user-change_username.php start
+msgid "Change your username"
+msgstr "ユーザー名を変更します。"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"警告: 一度設定したら、するされませんユーザー名を再度変更することができます。"
+"賢明な選択します。"
+
+msgid "Forgot password?"
+msgstr "パスワードを忘れてしまいましたか？"
+
+msgid "Access your account"
+msgstr "ログイン"
+
+msgid "Remember me"
+msgstr "パスワードを記憶させる"
+
+msgid "Don't have an account!"
+msgstr "まだアカウントを持っていないのですか？"
+
+msgid "Register here"
+msgstr "登録はこちら。"
+
+msgid "Update your profile"
+msgstr "プロフィールの更新"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "User type"
+msgstr "ユーザーの種類"
+
+msgid "Website"
+msgstr "ウェブサイト"
+
+msgid "Delete my account"
+msgstr "アカウント削除"
+
+msgid "User Description"
+msgstr "ユーザーの説明"
+
+msgid "Ads from %s"
+msgstr "%sから"
+
+msgid "Recover your password"
+msgstr "あなたのパスワードを回復"
+
+msgid "Send me a new password"
+msgstr "私に新しいパスワードを送信します"
+
+msgid "Create new account"
+msgstr "新しいアカウントを作る"
+
+msgid "Re-type password"
+msgstr "パスワードを再入力"
+
+msgid "Passwords don't match"
+msgstr "パスワードが一致しません"
+
+msgid "I agree to the"
+msgstr "私は%sに同意する"
+
+msgid "Terms of Use"
+msgstr "利用規約"
+
+msgid "Already have an account?"
+msgstr "既にアカウントをお持ちですか？"
+
+msgid "Your contact info"
+msgstr "連絡先"
+
+msgid "Insert number"
+msgstr "電話番号"
+
+msgid "No file selected"
+msgstr "ファイルが選択されていません"
+
+msgid "Choose File"
+msgstr "ファイルを選択してください"
+
+msgid "Select a region"
+msgstr "地方を選択して下さい"
+
+msgid "Select a city"
+msgstr "都道府県を選択して下さい"
+
+msgid "Select a country"
+msgstr "国を選択"
+
+msgid "No Latest ads"
+msgstr "最新の広告"
+
+msgid "You not have ads"
+msgstr "ない広告があります。"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+"このアクションは、元に戻すことはできません。あなたが継続してもよろしいです"
+"か？"
+
+msgid "See all ads"
+msgstr "全て表示"
+
+msgid "Activate"
+msgstr "有効にする"
+
+msgid "Browse categories"
+msgstr "カテゴリをブラウズ"
+
+msgid "Seller's information"
+msgstr "出品者の情報"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Registered"
+msgstr "登録済"
+
+msgid "Phone number not available"
+msgstr "電話番号は使用できません。"
+
+msgid "Images already uploaded"
+msgstr "画像がすでにアップロード"
+
+msgid "Change profile picture"
+msgstr "タップしてプロフィール写真を変更します"
+
+msgid "Delete account button"
+msgstr "アカウント ボタンを削除します。"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"すべてのあなたのリストおよびアラートが削除され、このアクションは元に戻すこと"
+"はできません。"
+
+msgid "Delete account"
+msgstr "アカウント削除"
+
+msgid "Header search button"
+msgstr "ヘッダーサーチボタンカラー"
+
+msgid "Use custom color"
+msgstr "カスタム色を使う:"
+
+msgid "Use default color"
+msgstr "既定のカラーを使う"
+
+msgid "Custom color"
+msgstr "カスタムカラー"
+
+msgid "Right sidebar ads"
+msgstr "右サイドバー"
+
+msgid "Left sidebar ads"
+msgstr "左のサイドバー"

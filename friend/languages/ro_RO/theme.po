@@ -1,0 +1,884 @@
+# Copyright (C) 2017 OsclassMe
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassDotMe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-13 08:55+0700\n"
+"Language-Team: Translations <cs@osclass.me>\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"Last-Translator: \n"
+"Language: ro_RO\n"
+
+#: 404.php start
+msgid "404 Not Found"
+msgstr "404 Nu a fost găsit"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Ne pare rău, o eroare a apărut, pagina solicitat nu a fost găsit!"
+
+msgid "Take me home"
+msgstr "Mergi la pagina principala"
+
+msgid "or"
+msgstr "sau"
+
+msgid "Contact support"
+msgstr "Contactaţi serviciul de asistenţă"
+
+#: admin/category.php start
+msgid "Remove"
+msgstr "Elimină"
+
+msgid "Upload"
+msgstr "Încărcare"
+
+msgid "Recommended size"
+msgstr "Recomandat"
+
+msgid "Category Images"
+msgstr "Imagini categorie"
+
+#: admin/general.php start
+msgid "General Settings"
+msgstr "Setări Generale"
+
+msgid "Search Placeholder"
+msgstr "Căutare substituent"
+
+msgid "Search"
+msgstr "Căutare"
+
+msgid "Welcome text"
+msgstr "Text de întâmpinare"
+
+msgid "Welcome to classifieds"
+msgstr "bine ati venit la anunturi"
+
+msgid "Insert your welcome text"
+msgstr "Introduceţi textul de bun venit"
+
+msgid "Header search butoon"
+msgstr "Butoon de căutare antet"
+
+msgid "Show"
+msgstr "Arată"
+
+msgid "Hide"
+msgstr "Ascunde"
+
+msgid "Show tab content"
+msgstr "ConținuT Tab"
+
+msgid "Premium ads"
+msgstr "Anunţurile premium"
+
+msgid "Latest ads"
+msgstr "Ultimele anunțuri"
+
+msgid "All category"
+msgstr "toate categoriile"
+
+msgid "Show category count"
+msgstr "Arată numărul de categorie"
+
+msgid "Premium ads count"
+msgstr "Numărul de anunţuri Premium"
+
+msgid "Latest ads count"
+msgstr "Ultimele anunturi conta"
+
+msgid "Search premium ads"
+msgstr "Căutaţi anunţuri Premium"
+
+msgid "Related ads count"
+msgstr "Anunturi asociate Conteaza"
+
+msgid "Footer Copyright"
+msgstr "Footer Copyright"
+
+msgid "Copyright All right reserved"
+msgstr "Copyright toate drepturile rezervate"
+
+msgid "Copyright text on footer."
+msgstr "Drepturi de autor textul pe subsol."
+
+msgid "Element settings"
+msgstr "Setările Element:"
+
+msgid "Show lists as"
+msgstr "Arată liste"
+
+msgid "Gallery"
+msgstr "Galerie"
+
+msgid "List"
+msgstr "Listă"
+
+msgid "Large gallery"
+msgstr "Mare Galerie"
+
+msgid "Search form"
+msgstr "Șablon formular de căutare"
+
+msgid "Region"
+msgstr "Regiune"
+
+msgid "City"
+msgstr "Oraş"
+
+msgid "Country"
+msgstr "Ţară"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Show main category images"
+msgstr "Afiºaþi imaginile categoria principală"
+
+msgid "Show footer statistic"
+msgstr "Arată cât de subsol"
+
+msgid "Footer widget"
+msgstr "Subsol widget"
+
+msgid "Widget title"
+msgstr "Titlu widget"
+
+msgid "Your title"
+msgstr "Titlul"
+
+msgid "Widget content"
+msgstr "Conţinut widget"
+
+msgid "Insert your title and widget"
+msgstr "Introduceţi titlul şi widget"
+
+msgid "Color settings"
+msgstr "Setări culoare"
+
+msgid "Select color Scheme"
+msgstr "Selectaţi culoare schema"
+
+msgid "Theme Color"
+msgstr "Culoare Tema"
+
+msgid "Background color"
+msgstr "Culoare fundal"
+
+msgid "Price color"
+msgstr "Culoarea pretului"
+
+msgid "Footer color"
+msgstr "Culoare subsol"
+
+msgid "Footer background"
+msgstr "Fundal footer"
+
+msgid "Ads space"
+msgstr "Spațiu"
+
+msgid "Insert your ads code"
+msgstr "Introdu codul anunţuri"
+
+msgid "Header ads"
+msgstr "Antet anunturi"
+
+msgid "Footer ads"
+msgstr "Anunţuri de subsol"
+
+msgid "Sidebar ads"
+msgstr "Bară laterală"
+
+msgid "Search page ads"
+msgstr "Pagina de căutare pentru reclame"
+
+msgid "Social media"
+msgstr "Media de socializare"
+
+msgid "More"
+msgstr "Și mai"
+
+msgid "Term of use link"
+msgstr "Termenul de utilizare link"
+
+msgid "Useful title"
+msgstr "Utile titlu"
+
+msgid "Your useful title"
+msgstr "Titlul utile"
+
+msgid "Useful content"
+msgstr "Conţinut util"
+
+msgid "Insert your useful content"
+msgstr "Inseraţi conţinut util"
+
+msgid "Leave blank if you want to use default useful info"
+msgstr "Lăsaţi necompletat dacă doriţi să utilizaţi implicit info utile"
+
+msgid "Save changes"
+msgstr "Salvează schimbări"
+
+#: admin/info.php start
+msgid "Update and Fixed"
+msgstr "Actualizare şi fix"
+
+msgid "Version"
+msgstr "Versiune"
+
+msgid "Ask and support"
+msgstr "Întrebaţi şi să sprijine"
+
+msgid "If you have problem or bugs in theme, please report"
+msgstr "Dacă aveţi probleme sau bug-uri în temă, vă rugăm să raportaţi"
+
+msgid "Click here"
+msgstr "Apăsați aici"
+
+msgid "for ask or support"
+msgstr "pentru suport sau adresaţi-vă"
+
+msgid "Support this theme"
+msgstr "Acceptă această temă"
+
+msgid "If you happy for this theme, please give support for this theme"
+msgstr ""
+"Dacă tu fericit pentru aceasta tema, vă rugăm să acorde sprijin pentru "
+"aceasta tema"
+
+msgid "for give 5 rating star"
+msgstr "acorda rating de 5 stele"
+
+#: admin/logo.php start
+msgid "The image has been uploaded correctly"
+msgstr "Logo imaginea a fost încărcat corect"
+
+msgid "An error has occurred, please try again"
+msgstr "A apărut o eroare, vă rugăm să încercați din nou"
+
+msgid "The image has been removed"
+msgstr "Logo imaginea a fost eliminat"
+
+msgid "Image not found"
+msgstr "Imaginea nu a fost găsită"
+
+msgid "Settings images"
+msgstr "Setările de imagine"
+
+msgid "Preview"
+msgstr "Previzualizare"
+
+msgid "You not upload any images"
+msgstr "Să nu încărcaţi imagini"
+
+msgid "Favicon images"
+msgstr "Favicon imagini"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Dosarul Imagini %s nu poate fi scris pe server"
+
+msgid "Osclass can't upload logo image from the administration panel"
+msgstr "OSClass nu poate încărca imaginea logo din panoul de administrare"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Va rugam sa mentionati folderul imagini inscriptibil"
+
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell"
+msgstr ""
+"Pentru ca un director să poată fi scris sub UNIX, trebuie să execuţi această "
+"comandă în terminal:"
+
+#: admin/settings.php start
+msgid "By"
+msgstr "De"
+
+msgid "General"
+msgstr "Generalități"
+
+msgid "Logo and Favicon"
+msgstr "Logo-ul şi Favicon"
+
+msgid "Category images"
+msgstr "Imagini categorie"
+
+msgid "Update and support"
+msgstr "Actualizare şi suport"
+
+#: alert-form.php start
+msgid "You have sucessfully subscribed to the alert"
+msgstr "V-ați abonat cu succes la alerta"
+
+msgid "Invalid email address"
+msgstr "Adresă de email invalidă"
+
+msgid "There was a problem with the alert"
+msgstr "A apărut o problemă cu alerta"
+
+msgid "Subscribe to this search"
+msgstr "Aboneaza-te la această căutare"
+
+msgid "Subscribe now"
+msgstr "Aboneaza-te acum"
+
+#: contact.php start
+msgid "Contact us"
+msgstr "Contactați-ne"
+
+msgid "Contact administrator"
+msgstr "Contactati administratorul"
+
+msgid "Your name"
+msgstr "Numele dvs"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "Your e-mail address"
+msgstr "Adresa e-mail"
+
+msgid "Subject"
+msgstr "Subiect"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "Send messages"
+msgstr "Trimite mesaje"
+
+#: custom.php start
+msgid "Pages"
+msgstr "Pagini"
+
+#: footer.php start
+msgid "Active ads"
+msgstr "Anunțuri active"
+
+msgid "in"
+msgstr "în"
+
+msgid "Total user"
+msgstr "Total utilizator"
+
+msgid "Total City"
+msgstr "Orașul total"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Follow us"
+msgstr "Urmărește-ne"
+
+msgid "Back to top"
+msgstr "Înapoi sus"
+
+msgid "Top"
+msgstr "Sus"
+
+#: function.php start
+msgid "ie. PHP Programmer"
+msgstr "de PHP Programmer"
+
+#: user-item.php
+msgid "My ads"
+msgstr "Anunturile tale"
+
+msgid "Manage my ads"
+msgstr "Anunturile mele"
+
+msgid "My alerts"
+msgstr "Alertele mele"
+
+msgid "Edit profile"
+msgstr "Editeaza profil"
+
+msgid "Change email"
+msgstr "Schimba e-mail"
+
+msgid "Change password"
+msgstr "Modificare parola"
+
+msgid "Logout"
+msgstr "Deconectare"
+
+#: header.php start
+msgid "Home"
+msgstr "Acasă"
+
+msgid "Language"
+msgstr "Limbă"
+
+msgid "Hi %s"
+msgstr "Salut %s"
+
+msgid "My account"
+msgstr "Contul meu"
+
+msgid "Hi Guest!"
+msgstr "Bună oaspeți!"
+
+msgid "Login"
+msgstr "Logare"
+
+msgid "Register"
+msgstr "Înregistrează-te"
+
+msgid "Post new ads"
+msgstr "Postați anunțuri noi"
+
+#: item.php start
+msgid "Seller profile"
+msgstr "Vânzătorul profil"
+
+msgid "Ads expired"
+msgstr "Expirate"
+
+msgid "Send mail"
+msgstr "Trimite e-mail"
+
+msgid "View profile"
+msgstr "Vezi profil"
+
+msgid "Unregistered"
+msgstr "Utilizator neînregistrat"
+
+msgid "Seller information"
+msgstr "Informații vânzător"
+
+msgid "The ads is expired. You can't contact the publisher."
+msgstr "Listarea a expirat. Nu puteți să contactați editorul."
+
+msgid "It's your own ads, you can't contact the publisher."
+msgstr "Este lista dvs., nu puteți contacta editorul."
+
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"Trebuie să vă conectați sau să vă înregistrați,pentru a putea contacta "
+"vânzătorul"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Cell phone"
+msgstr "Telefon mobil"
+
+msgid "Send email"
+msgstr "Trimiteți e-mailul"
+
+msgid "Register for a free account"
+msgstr "Inregistreaza-te! Cont gratuit"
+
+msgid "Your e-mail"
+msgstr "Adresa dvs. de e-mail"
+
+msgid "Phone number"
+msgstr "Număr telefon"
+
+msgid "Attachment"
+msgstr "Atașament"
+
+msgid "Enter the words above"
+msgstr "Introduceți cuvintele de mai sus"
+
+msgid "Help"
+msgstr "Ajutor"
+
+msgid "Send"
+msgstr "Trimite"
+
+msgid "Location"
+msgstr "Locaţia"
+
+msgid "Edit"
+msgstr "Editează"
+
+msgid "Share"
+msgstr "Distribuie"
+
+msgid "Image"
+msgstr "Imagine"
+
+msgid "Detail"
+msgstr "Detalii"
+
+msgid "More information"
+msgstr "Mai multe informatii"
+
+msgid "Categories"
+msgstr "Categorii"
+
+msgid "Views"
+msgstr "Vizualizări"
+
+msgid "Modified"
+msgstr "Ultima modificare"
+
+msgid "Comments"
+msgstr "Comentarii"
+
+msgid "Delete your comment"
+msgstr "Ștergeți comentariu dvs"
+
+msgid "Delete"
+msgstr "Șterge"
+
+msgid "No comments added yet. Be first to leave comment!"
+msgstr "Nici un comentariu adăugat încă. Fii primul care comentează!"
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Comment"
+msgstr "Comentariu"
+
+msgid "Submit comment"
+msgstr "Trimite comentariu"
+
+msgid "Useful information"
+msgstr "﻿Informații utile"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Evitaţi escrocheriile şi plătiţi direct (în mână) sau prin PayPal"
+
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Niciodată nu plătiţi prin Western Union, Moneygram sau alte servicii anonime "
+"de plată"
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Nu cumpăraţi sau vindeţi înafara ţării voastre. Nu acceptaţi cecuri dinafara "
+"ţării"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Acest site nu este implicat în nici o tranzacţie şi nici nu controlează "
+"plăţile, transportul, garanţia tranzacţiilor, nu oferă \"protecţia "
+"cumpărătorului\" dar nici \"certificarea vânzătorului\""
+
+msgid "Related ads"
+msgstr "Anunțuri similare"
+
+#: item-post.php start
+msgid "General Information"
+msgstr "Informaţii generale"
+
+msgid "Select a category"
+msgstr "Selectaţi o categorie"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Price"
+msgstr "Preţ"
+
+msgid "Ads Location"
+msgstr "Locație"
+
+msgid "City Area"
+msgstr "Oraş"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Show e-mail on the ads page"
+msgstr "Arată e-mailul pe pagina anuntului"
+
+msgid "Update"
+msgstr "Actualizează"
+
+msgid "Publish"
+msgstr "Publică"
+
+#: item-send-friend.php start
+msgid "Share ads"
+msgstr "Distribuie"
+
+msgid "Send to a friend"
+msgstr "Trimite unui prieten"
+
+msgid "Your friend's name"
+msgstr "Numele prietenului tau"
+
+msgid "Your friend's e-mail address"
+msgstr "Adresa de email a prietenului"
+
+#: main.php start
+msgid "All categories"
+msgstr "Toate categoriile"
+
+#: related.php start
+msgid "Premium"
+msgstr "Primă"
+
+#: search.php start
+msgid "All result"
+msgstr "Vezi toate ofertele"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Company"
+msgstr "Companie"
+
+msgid "View in gallery"
+msgstr "Vezi anunturi"
+
+msgid "View in list"
+msgstr "Arată ca lista"
+
+msgid "View in large galley"
+msgstr "Vezi anunturi"
+
+msgid "Result"
+msgstr "Rezultat"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d din %3$d  anunturi"
+
+msgid "Sort by"
+msgstr "Sortare după"
+
+msgid "There are no results matching \"%s\""
+msgstr "Nu există rezultate potrivite \" %s \""
+
+msgid "Your search"
+msgstr "Căutarea dvs"
+
+msgid "Show only ads with images"
+msgstr "Arată doar anunțuri cu imagini"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Apply"
+msgstr "Aplică"
+
+#: user-alert.php start
+msgid "My alert"
+msgstr "Meu de alertă"
+
+msgid "You do not have any alerts yet"
+msgstr "Nu aveți încă nici o alertă"
+
+msgid "Alert"
+msgstr "Alertă"
+
+msgid "Delete this alert"
+msgstr "Ștergeți această alertă"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Această acțiune nu poate fi anulată. Sigur doriți să continuați?"
+
+#: user-change_email.php start
+msgid "Change your e-mail"
+msgstr "Schimba-ti adresa de e-mail"
+
+msgid "Current e-mail"
+msgstr "Adresă de e-mail actuala"
+
+msgid "New e-mail"
+msgstr "Noul e-mail"
+
+#: user-change_password.php start
+msgid "Change your password"
+msgstr "Schimba-ti parola"
+
+msgid "New password"
+msgstr "Parolă nouă"
+
+msgid "Current password"
+msgstr "Parolă curentă"
+
+msgid "Repeat new password"
+msgstr "Repetă noua parolă"
+
+#: user-change_username.php start
+msgid "Change your username"
+msgstr "Schimba-ti numele de utilizator"
+
+msgid "Username"
+msgstr "Nume de utilizator"
+
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"Atentie! Odata setat, nu iti vei mai putea schimba numele inca o data. Alege "
+"cu grija."
+
+msgid "Forgot password?"
+msgstr "Ți-ai uitat parola?"
+
+msgid "Access your account"
+msgstr "Accesează-ţi contul"
+
+msgid "Remember me"
+msgstr "Ține-mă minte"
+
+msgid "Don't have an account!"
+msgstr "Nu ai un cont!"
+
+msgid "Register here"
+msgstr "Inregistrare"
+
+msgid "Update your profile"
+msgstr "Actualizare profil"
+
+msgid "Cancel"
+msgstr "Anulează"
+
+msgid "User type"
+msgstr "Tip utilizator"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Delete my account"
+msgstr "Sterge contul"
+
+msgid "User Description"
+msgstr "Descriere utilizator"
+
+msgid "Ads from %s"
+msgstr "Anunțuri de la  %s"
+
+msgid "Recover your password"
+msgstr "Recuperare parola"
+
+msgid "Send me a new password"
+msgstr "Trimite-mi o parolă nouă"
+
+msgid "Create new account"
+msgstr "Creează"
+
+msgid "Re-type password"
+msgstr "Reintrodu parola"
+
+msgid "Passwords don't match"
+msgstr "Parolele nu se potrivesc"
+
+msgid "I agree to the"
+msgstr "Sunt de acord cu %s"
+
+msgid "Terms of Use"
+msgstr "Termeni de Utilizare"
+
+msgid "Already have an account?"
+msgstr "Aveti deja un cont?"
+
+msgid "Your contact info"
+msgstr "Contact"
+
+msgid "Insert number"
+msgstr "Număr telefon"
+
+msgid "No file selected"
+msgstr "Nici un fișier selectat"
+
+msgid "Choose File"
+msgstr "Alege fișier"
+
+msgid "Select a region"
+msgstr "Selectează o regiune..."
+
+msgid "Select a city"
+msgstr "Alegeți orașul"
+
+msgid "Select a country"
+msgstr "Selecteaza Judet"
+
+msgid "No Latest ads"
+msgstr "Ultimele anunturi"
+
+msgid "You not have ads"
+msgstr "Nu aveți anunțuri"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Această acțiune nu poate fi anulată. Sigur doriți să continuați?"
+
+msgid "See all ads"
+msgstr "Vezi toate anunturile"
+
+msgid "Activate"
+msgstr "Activează"
+
+msgid "Browse categories"
+msgstr "Categorii"
+
+msgid "Seller's information"
+msgstr "Informaţiile vânzătorului"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Registered"
+msgstr "Inregistrat"
+
+msgid "Phone number not available"
+msgstr "Număr telefon"
+
+msgid "Images already uploaded"
+msgstr "Imagini încărcat deja"
+
+msgid "Change profile picture"
+msgstr "Profilul lui %s"
+
+msgid "Delete account button"
+msgstr "Sterge contul"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "No"
+msgstr "Nu"
+
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"Toate listările dvs. și alertele vor fi eliminate, această acțiune nu poate "
+"fi anulată."
+
+msgid "Delete account"
+msgstr "Șterge contul"
+
+msgid "Header search button"
+msgstr "Butonul de căutare antet"
+
+msgid "Use custom color"
+msgstr "Culoare particularizată"
+
+msgid "Use default color"
+msgstr "Culoarea implicită"
+
+msgid "Custom color"
+msgstr "Presonalizare"
+
+msgid "Right sidebar ads"
+msgstr "Bara laterală dreapta"
+
+msgid "Left sidebar ads"
+msgstr "Bară laterală stânga"

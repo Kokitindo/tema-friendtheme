@@ -1,0 +1,854 @@
+# Copyright (C) 2017 OsclassMe
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassDotMe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-10 18:04+0700\n"
+"Last-Translator: _ARIBUDIN <cs@osclass.me>\n"
+"Language-Team: Translations <cs@osclass.me>\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#: 404.php start
+msgid "404 Not Found"
+msgstr "404 Tidak Ditemukan"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Maaf, kesalahan telah terjadi, halaman yang diminta tidak ditemukan!"
+
+msgid "Take me home"
+msgstr "Kembali ke Beranda"
+
+msgid "or"
+msgstr "atau"
+
+msgid "Contact support"
+msgstr "Hubungi dukungan"
+
+#: admin/category.php start
+msgid "Remove"
+msgstr "Hapus"
+
+msgid "Upload"
+msgstr "Unggah"
+
+msgid "Recommended size"
+msgstr "Ukuran direkomendasikan"
+
+msgid "Category Images"
+msgstr "Gambar Kategori"
+
+#: admin/general.php start
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+msgid "Search Placeholder"
+msgstr "Tempat pencarian"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "Welcome text"
+msgstr "Teks selamat datang"
+
+msgid "Welcome to classifieds"
+msgstr "Selamat datang di situs iklan baris"
+
+msgid "Insert your welcome text"
+msgstr "Memasukkan teks Anda selamat datang"
+
+msgid "Header search butoon"
+msgstr "Tombol Cari di header"
+
+msgid "Show"
+msgstr "Tampilkan"
+
+msgid "Hide"
+msgstr "Sembunyikan"
+
+msgid "Show tab content"
+msgstr "Menampilkan tab konten"
+
+msgid "Premium ads"
+msgstr "Iklan premium"
+
+msgid "Latest ads"
+msgstr "Iklan Terbaru"
+
+msgid "All category"
+msgstr "Semua kategori"
+
+msgid "Show category count"
+msgstr "Tampilkan kategori hitungan"
+
+msgid "Premium ads count"
+msgstr "Jumlah iklan premium"
+
+msgid "Latest ads count"
+msgstr "Jumlah iklan terbaru"
+
+msgid "Search premium ads"
+msgstr "Cari iklan Premium"
+
+msgid "Related ads count"
+msgstr "Jumlah iklan terkait"
+
+msgid "Footer Copyright"
+msgstr "Hak cipta footer"
+
+msgid "Copyright All right reserved"
+msgstr "Copyright All right reserved"
+
+msgid "Copyright text on footer."
+msgstr "Teks hak cipta di footer."
+
+msgid "Element settings"
+msgstr "Pengaturan pengguna"
+
+msgid "Show lists as"
+msgstr "Tampilkan daftar sebagai"
+
+msgid "Gallery"
+msgstr "Galeri"
+
+msgid "List"
+msgstr "Daftar"
+
+msgid "Large gallery"
+msgstr "Galeri besar"
+
+msgid "Search form"
+msgstr "Pencarian Form"
+
+msgid "Region"
+msgstr "Provinsi"
+
+msgid "City"
+msgstr "Kota"
+
+msgid "Country"
+msgstr "Negara"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Show main category images"
+msgstr "Tampilkan kategori utama gambar"
+
+msgid "Show footer statistic"
+msgstr "Tampilkan statistik footer"
+
+msgid "Footer widget"
+msgstr "Widget di Footer"
+
+msgid "Widget title"
+msgstr "Judul"
+
+msgid "Your title"
+msgstr "Judul halaman"
+
+msgid "Widget content"
+msgstr "Widget konten"
+
+msgid "Insert your title and widget"
+msgstr "Masukkan teks atau html"
+
+msgid "Color settings"
+msgstr "Pengaturan Warna"
+
+msgid "Select color Scheme"
+msgstr "Pilih warna skema"
+
+msgid "Theme Color"
+msgstr "Tema warna"
+
+msgid "Background color"
+msgstr "Warna latar"
+
+msgid "Price color"
+msgstr "Warna Harga"
+
+msgid "Footer color"
+msgstr "Font dan warna"
+
+msgid "Footer background"
+msgstr "Latar belakang footer"
+
+msgid "Ads space"
+msgstr "Ruang iklan"
+
+msgid "Insert your ads code"
+msgstr "Masukkan kode iklan anda"
+
+msgid "Header ads"
+msgstr "Header iklan"
+
+msgid "Footer ads"
+msgstr "Footer iklan"
+
+msgid "Sidebar ads"
+msgstr "Sidebar iklan"
+
+msgid "Search page ads"
+msgstr "Jumlah iklan premium Cari Halaman"
+
+msgid "Social media"
+msgstr "Media sosial."
+
+msgid "More"
+msgstr "Lebih banyak"
+
+msgid "Term of use link"
+msgstr "Syarat penggunaan link"
+
+msgid "Useful title"
+msgstr "Judul berguna"
+
+msgid "Your useful title"
+msgstr "Judul informasi yang berguna"
+
+msgid "Useful content"
+msgstr "Konten yang bermanfaat"
+
+msgid "Insert your useful content"
+msgstr "Masukkan teks atau html"
+
+msgid "Leave blank if you want to use default useful info"
+msgstr "Biarkan kosong jika Anda ingin menggunakan info berguna default"
+
+msgid "Save changes"
+msgstr "Simpan perubahan"
+
+#: admin/info.php start
+msgid "Update and Fixed"
+msgstr "Memperbaharui"
+
+msgid "Version"
+msgstr "Versi"
+
+msgid "Ask and support"
+msgstr "Bertanya dan dukungan"
+
+msgid "If you have problem or bugs in theme, please report"
+msgstr "Jika kamu punya masalah atau bugs tanya devoloper disini"
+
+msgid "Click here"
+msgstr "Klik di sini"
+
+msgid "for ask or support"
+msgstr "untuk bertanya atau dukungan"
+
+msgid "Support this theme"
+msgstr "Dukung themes ini"
+
+msgid "If you happy for this theme, please give support for this theme"
+msgstr "Jika Anda senang dengan tema ini, Harap memberikan dukungan untuk tema ini"
+
+msgid "for give 5 rating star"
+msgstr "untuk memberikan rating bintang 5"
+
+#: admin/logo.php start
+msgid "The image has been uploaded correctly"
+msgstr "Gambar telah di-upload dengan benar"
+
+msgid "An error has occurred, please try again"
+msgstr "Terjadi kesalahan, silakan coba lagi nanti"
+
+msgid "The image has been removed"
+msgstr "Gambar telah dihapus"
+
+msgid "Image not found"
+msgstr "Gambar tidak ditemukan"
+
+msgid "Settings images"
+msgstr "Pengaturan gambar"
+
+msgid "Preview"
+msgstr "Pratinjau"
+
+msgid "You not upload any images"
+msgstr "Kamu tidak upload gambar apapun"
+
+msgid "Favicon images"
+msgstr "Gambar favicon"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Folder <strong>gambar%s</strong> tidak dapat ditulis pada server Anda"
+
+msgid "Osclass can't upload logo image from the administration panel"
+msgstr "Osclass tidak dapat meng-upload gambar logo dari panel admin"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Silakan membuat folder gambar tersebut yang bisa diisi"
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr "Agar bisa direktori bisa ditulisi di sistem UNIX laksanakan perintah ini dari shell"
+
+#: admin/settings.php start
+msgid "By"
+msgstr "Oleh"
+
+msgid "General"
+msgstr "Umum"
+
+msgid "Logo and Favicon"
+msgstr "Logo dan Favicon"
+
+msgid "Category images"
+msgstr "Gambar Kategori"
+
+msgid "Update and support"
+msgstr "Update dan dukungan"
+
+#: alert-form.php start
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Anda telah berhasil berlangganan notifikasi"
+
+msgid "Invalid email address"
+msgstr "Alamat email tidak valid"
+
+msgid "There was a problem with the alert"
+msgstr "Terdapat masalah dengan notifikasi"
+
+msgid "Subscribe to this search"
+msgstr "Berlangganan ke pencarian ini"
+
+msgid "Subscribe now"
+msgstr "Berlangganan sekarang"
+
+#: contact.php start
+msgid "Contact us"
+msgstr "Hubungi kami"
+
+msgid "Contact administrator"
+msgstr "Hubungi admin"
+
+msgid "Your name"
+msgstr "Nama anda"
+
+msgid "optional"
+msgstr "opsional"
+
+msgid "Your e-mail address"
+msgstr "Alamat e-mail anda"
+
+msgid "Subject"
+msgstr "Judul"
+
+msgid "Message"
+msgstr "Pesan"
+
+msgid "Send messages"
+msgstr "Kirim pesan"
+
+#: custom.php start
+msgid "Pages"
+msgstr "Halaman"
+
+#: footer.php start
+msgid "Active ads"
+msgstr "Iklan aktif"
+
+msgid "in"
+msgstr "di"
+
+msgid "Total user"
+msgstr "Total Anggota"
+
+msgid "Total City"
+msgstr "Semua Kota"
+
+msgid "Contact"
+msgstr "Hubungi"
+
+msgid "Follow us"
+msgstr "Ikuti kami"
+
+msgid "Back to top"
+msgstr "Kembali ke atas"
+
+msgid "Top"
+msgstr "Kiri Atas"
+
+#: function.php start
+msgid "ie. PHP Programmer"
+msgstr "spt. PHP Programmer"
+
+#: user-item.php
+msgid "My ads"
+msgstr "Iklan saya"
+
+msgid "Manage my ads"
+msgstr "Mengatur iklan saya"
+
+msgid "My alerts"
+msgstr "Notifikasi saya"
+
+msgid "Edit profile"
+msgstr "Sunting profil"
+
+msgid "Change email"
+msgstr "Ganti email"
+
+msgid "Change password"
+msgstr "Ganti password"
+
+msgid "Logout"
+msgstr "Keluar"
+
+#: header.php start
+msgid "Home"
+msgstr "Beranda"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Hi %s"
+msgstr "Hai %s"
+
+msgid "My account"
+msgstr "Akun Saya"
+
+msgid "Hi Guest!"
+msgstr "Hi Pengunjung !"
+
+msgid "Login"
+msgstr "Masuk"
+
+msgid "Register"
+msgstr "Mendaftar"
+
+msgid "Post new ads"
+msgstr "Pasang Iklan Baru"
+
+#: item.php start
+msgid "Seller profile"
+msgstr "Profil penjual"
+
+msgid "Ads expired"
+msgstr "Iklan kadaluwarsa"
+
+msgid "Send mail"
+msgstr "Kirim Email"
+
+msgid "View profile"
+msgstr "Lihat Profil"
+
+msgid "Unregistered"
+msgstr "Belum mendafter"
+
+msgid "Seller information"
+msgstr "Informasi Penjual"
+
+msgid "The ads is expired. You can't contact the publisher."
+msgstr "Iklan telah kedaluwarsa. Anda tidak dapat lagi menggubungi pernebitnya."
+
+msgid "It's your own ads, you can't contact the publisher."
+msgstr "Ini daftar Anda sendiri, Anda tidak dapat menghubungi penerbit."
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Anda harus log in atau mendaftar akun baru untuk menghubungi pengiklan"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone"
+msgstr "Telpon"
+
+msgid "Cell phone"
+msgstr "Telpon selular"
+
+msgid "Send email"
+msgstr "Kirim email"
+
+msgid "Register for a free account"
+msgstr "Mendaftar akun gratis"
+
+msgid "Your e-mail"
+msgstr "E-mail anda"
+
+msgid "Phone number"
+msgstr "Nomer telepon"
+
+msgid "Attachment"
+msgstr "Lampiran"
+
+msgid "Enter the words above"
+msgstr "Masukkan kata-kata di atas"
+
+msgid "Help"
+msgstr "Bantuan"
+
+msgid "Send"
+msgstr "Kirim"
+
+msgid "Location"
+msgstr "Lokasi"
+
+msgid "Edit"
+msgstr "Sunting"
+
+msgid "Share"
+msgstr "Bagikan"
+
+msgid "Image"
+msgstr "Gambar"
+
+msgid "Detail"
+msgstr "Rincian"
+
+msgid "More information"
+msgstr "Informasi lebih lanjut"
+
+msgid "Categories"
+msgstr "Kategori"
+
+msgid "Views"
+msgstr "Dilihat"
+
+msgid "Modified"
+msgstr "Tanggal dimodifikasi"
+
+msgid "Comments"
+msgstr "Komentar"
+
+msgid "Delete your comment"
+msgstr "Hapus komentar anda"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "No comments added yet. Be first to leave comment!"
+msgstr "Tidak ada komentar saat ini. Jadilah yang pertama berkomentar!"
+
+msgid "Title"
+msgstr "Judul"
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Submit comment"
+msgstr "Masukkan Komentar"
+
+msgid "Useful information"
+msgstr "Informasi yang berguna"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Hindari penipuan dengan bertransaksi langsung atau membayar dengan PayPal"
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Jangan pernah membayar dengan Western Union, MoneyGram atau layanan pembayaran sejenis"
+
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Jangan membeli atau menjual di luar negara Anda. Jangan menerima cek kasir dari luar negara Anda"
+
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Situs ini tidak pernah terlibat dalam transaksi apapun, dan tidak menangani pembayaran, pengiriman, jaminan transaksi, memberikan layanan wasiat dari pihak ketiga, atau menawarkan \"perlindungan pembeli\" atau \"sertifikasi penjual\""
+
+msgid "Related ads"
+msgstr "Iklan Terkait"
+
+#: item-post.php start
+msgid "General Information"
+msgstr "Informasi Umum"
+
+msgid "Select a category"
+msgstr "Pilih kategori"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Ads Location"
+msgstr "Lokasi"
+
+msgid "City Area"
+msgstr "Area Kota"
+
+msgid "Address"
+msgstr "Alamat"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Show e-mail on the ads page"
+msgstr "Tampilkan e-mail di halaman iklan"
+
+msgid "Update"
+msgstr "Memperbarui"
+
+msgid "Publish"
+msgstr "Publikasikan"
+
+#: item-send-friend.php start
+msgid "Share ads"
+msgstr "Bagikan"
+
+msgid "Send to a friend"
+msgstr "Kirim ke teman"
+
+msgid "Your friend's name"
+msgstr "Nama teman anda"
+
+msgid "Your friend's e-mail address"
+msgstr "Alamat e-mail teman anda"
+
+#: main.php start
+msgid "All categories"
+msgstr "Semua Kategori"
+
+#: related.php start
+msgid "Premium"
+msgstr "Premium"
+
+#: search.php start
+msgid "All result"
+msgstr "Semua iklan"
+
+msgid "Personal"
+msgstr "Pribadi"
+
+msgid "Company"
+msgstr "Perusahaan"
+
+msgid "View in gallery"
+msgstr "Menampilkan sebagai gallery"
+
+msgid "View in list"
+msgstr "Tampilkan sebagai daftar"
+
+msgid "View in large galley"
+msgstr "Menampilkan sebagai gallery besar"
+
+msgid "Result"
+msgstr "Hasil"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d dari %3$d iklan"
+
+msgid "Sort by"
+msgstr "Urutkan berdasarkan"
+
+msgid "There are no results matching \"%s\""
+msgstr "Tidak ada hasil yang cocok \"%s\""
+
+msgid "Your search"
+msgstr "Pencarian anda"
+
+msgid "Show only ads with images"
+msgstr "Tampilkan hanya iklan dengan gambar"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Maks"
+
+msgid "Apply"
+msgstr "Terapkan"
+
+#: user-alert.php start
+msgid "My alert"
+msgstr "Notifikasi saya"
+
+msgid "You do not have any alerts yet"
+msgstr "Anda belum memiliki notifkasi"
+
+msgid "Alert"
+msgstr "Notifikasi"
+
+msgid "Delete this alert"
+msgstr "Hapus notifikasi ini"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak dapat dibatalkan. Apakah Anda yakin ingin melanjutkan?"
+
+#: user-change_email.php start
+msgid "Change your e-mail"
+msgstr "Ganti e-mail Anda"
+
+msgid "Current e-mail"
+msgstr "E-mail sekarang"
+
+msgid "New e-mail"
+msgstr "E-mail baru"
+
+#: user-change_password.php start
+msgid "Change your password"
+msgstr "Ganti password anda"
+
+msgid "New password"
+msgstr "Password baru"
+
+msgid "Current password"
+msgstr "Password sekarang"
+
+msgid "Repeat new password"
+msgstr "Ketik ulang password baru"
+
+#: user-change_username.php start
+msgid "Change your username"
+msgstr "Ganti Username"
+
+msgid "Username"
+msgstr "Nama pengguna"
+
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "PERINGATAN: Setelah ditetapkan, Anda tidak akan dapat mengubah nama pengguna lagi. Pilihlah dengan bijak."
+
+msgid "Forgot password?"
+msgstr "Lupa password?"
+
+msgid "Access your account"
+msgstr "Akses ke akun anda"
+
+msgid "Remember me"
+msgstr "Ingatkan saya"
+
+msgid "Don't have an account!"
+msgstr "Tidak memiliki akun!"
+
+msgid "Register here"
+msgstr "Mendaftar di sini"
+
+msgid "Update your profile"
+msgstr "Perbaharui profil anda"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "User type"
+msgstr "Jenis Pengguna"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Delete my account"
+msgstr "Menghapus akun saya"
+
+msgid "User Description"
+msgstr "Deskripsi pengguna"
+
+msgid "Ads from %s"
+msgstr "Semua iklan dari %s"
+
+msgid "Recover your password"
+msgstr "Pulihkan password anda"
+
+msgid "Send me a new password"
+msgstr "Kirimkan saya password yang baru"
+
+msgid "Create new account"
+msgstr "Pendaftaran akun baru"
+
+msgid "Re-type password"
+msgstr "Ketik ulang password"
+
+msgid "Passwords don't match"
+msgstr "Password tidak cocok"
+
+msgid "I agree to the"
+msgstr "Saya Mengerti dan setuju"
+
+msgid "Terms of Use"
+msgstr "Syarat penggunaan"
+
+msgid "Already have an account?"
+msgstr "Sudah memiliki akun?"
+
+msgid "Your contact info"
+msgstr "Info kontak"
+
+msgid "Insert number"
+msgstr "Masukkan nomor"
+
+msgid "No file selected"
+msgstr "Tidak ada file yang dipilih"
+
+msgid "Choose File"
+msgstr "Pilih file"
+
+msgid "Select a region"
+msgstr "Pilih provinsi"
+
+msgid "Select a city"
+msgstr "Pilih Kota"
+
+msgid "Select a country"
+msgstr "Pilih Negara"
+
+msgid "No Latest ads"
+msgstr "Tidak ada Iklan Terbaru"
+
+msgid "You not have ads"
+msgstr "Anda tidak memiliki iklan saat ini"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak dapat dibatalkan. Anda yakin mau melanjutkan?"
+
+msgid "See all ads"
+msgstr "Lihat semua iklan"
+
+msgid "Activate"
+msgstr "Aktifkan"
+
+msgid "Browse categories"
+msgstr "Pilih kategori"
+
+msgid "Seller's information"
+msgstr "Informasi penjual"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Registered"
+msgstr "Terdaftar"
+
+msgid "Phone number not available"
+msgstr "Nomor telepon tidak tersedia"
+
+msgid "Images already uploaded"
+msgstr "Gambar yang telah diupload"
+
+msgid "Change profile picture"
+msgstr "Ganti foto profil"
+
+msgid "Delete account button"
+msgstr "Tombol hapus akun"
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "Semua iklan dan notifikasi akan dihapus, tindakan ini tidak bisa dibatalkan."
+
+msgid "Delete account"
+msgstr "Hapus akun"
+
+msgid "Header search button"
+msgstr "Tombol pencarian header"
+
+msgid "Use custom color"
+msgstr "Gunakan kustom warna"
+
+msgid "Use default color"
+msgstr "Gunakan warna standart"
+
+msgid "Custom color"
+msgstr "Kostom warna"
+
+msgid "Right sidebar ads"
+msgstr "Iklan sidebar kanan"
+
+msgid "Left sidebar ads"
+msgstr "Iklan sidebar kiri"

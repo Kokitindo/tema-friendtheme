@@ -1,0 +1,885 @@
+# Copyright (C) 2017 OsclassMe
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassDotMe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-13 09:32+0700\n"
+"Language-Team: Translations <cs@osclass.me>\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Last-Translator: \n"
+"Language: ru_RU\n"
+
+#: 404.php start
+msgid "404 Not Found"
+msgstr "404 Страница не найдена"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "Извините, произошла ошибка, просила страница не найдена!"
+
+msgid "Take me home"
+msgstr "Вернуться на главную"
+
+msgid "or"
+msgstr "или"
+
+msgid "Contact support"
+msgstr "Служба поддержки"
+
+#: admin/category.php start
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Upload"
+msgstr "Загрузить"
+
+msgid "Recommended size"
+msgstr "Рекомендуемый размер"
+
+msgid "Category Images"
+msgstr "Изображения для категорий"
+
+#: admin/general.php start
+msgid "General Settings"
+msgstr "Общие настройки"
+
+msgid "Search Placeholder"
+msgstr "Поиск Заполнитель"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Welcome text"
+msgstr "Текст приветствия"
+
+msgid "Welcome to classifieds"
+msgstr "добро пожаловать на объявления"
+
+msgid "Insert your welcome text"
+msgstr "Вставьте свой текст приветствия"
+
+msgid "Header search butoon"
+msgstr "Butoon Поиск заголовка"
+
+msgid "Show"
+msgstr "Показать"
+
+msgid "Hide"
+msgstr "Скрыть"
+
+msgid "Show tab content"
+msgstr "Содержимое вкладки"
+
+msgid "Premium ads"
+msgstr "Премиум Объявления"
+
+msgid "Latest ads"
+msgstr "bbs|Последние объявления"
+
+msgid "All category"
+msgstr "Все Категории"
+
+msgid "Show category count"
+msgstr "Показать счетчик категорий сайтов:"
+
+msgid "Premium ads count"
+msgstr "Граф Premium объявления"
+
+msgid "Latest ads count"
+msgstr "количество последних объявлений"
+
+msgid "Search premium ads"
+msgstr "Premium объявления в поиске"
+
+msgid "Related ads count"
+msgstr "Похожие объявления фото"
+
+msgid "Footer Copyright"
+msgstr "Текст авторского права в подвале"
+
+msgid "Copyright All right reserved"
+msgstr "Copyright. Все права защищены"
+
+msgid "Copyright text on footer."
+msgstr "Копирайт на колонтитулом."
+
+msgid "Element settings"
+msgstr "Настройки элемента"
+
+msgid "Show lists as"
+msgstr "Показать списков"
+
+msgid "Gallery"
+msgstr "Медиа"
+
+msgid "List"
+msgstr "Список"
+
+msgid "Large gallery"
+msgstr "Большая галерея"
+
+msgid "Search form"
+msgstr "Форма поиска"
+
+msgid "Region"
+msgstr "Регион"
+
+msgid "City"
+msgstr "Город"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Show main category images"
+msgstr "Показать основные категории изображения"
+
+msgid "Show footer statistic"
+msgstr "Показать нижний колонтитул статистика"
+
+msgid "Footer widget"
+msgstr "Виджет в footer'е"
+
+msgid "Widget title"
+msgstr "Название виджета"
+
+msgid "Your title"
+msgstr "Ваше название"
+
+msgid "Widget content"
+msgstr "Содержимое виджета"
+
+msgid "Insert your title and widget"
+msgstr "Введите название и виджет"
+
+msgid "Color settings"
+msgstr "Настройки цвета"
+
+msgid "Select color Scheme"
+msgstr "Выберите цветовую схему"
+
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+msgid "Background color"
+msgstr "Цвет фона"
+
+msgid "Price color"
+msgstr "Цвет цены"
+
+msgid "Footer color"
+msgstr "Цвета футера"
+
+msgid "Footer background"
+msgstr "Фон подвала"
+
+msgid "Ads space"
+msgstr "Объявления пространства"
+
+msgid "Insert your ads code"
+msgstr "Или вставьте код рекламы"
+
+msgid "Header ads"
+msgstr "Реклама в Хедер"
+
+msgid "Footer ads"
+msgstr "Нижние объявления"
+
+msgid "Sidebar ads"
+msgstr "Реклама в боковой колонке"
+
+msgid "Search page ads"
+msgstr "Поиск рекламных объявлений"
+
+msgid "Social media"
+msgstr "Социальные медиа"
+
+msgid "More"
+msgstr "Больше"
+
+msgid "Term of use link"
+msgstr "Срок использования ссылки"
+
+msgid "Useful title"
+msgstr "Полезные название"
+
+msgid "Your useful title"
+msgstr "Название вашего полезные"
+
+msgid "Useful content"
+msgstr "Полезное содержание"
+
+msgid "Insert your useful content"
+msgstr "Вставьте ваш полезное содержание"
+
+msgid "Leave blank if you want to use default useful info"
+msgstr ""
+"Оставьте пустым, если вы хотите использовать по умолчанию полезная информация"
+
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: admin/info.php start
+msgid "Update and Fixed"
+msgstr "Обновление и фиксированной"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Ask and support"
+msgstr "и поддержка на гло-"
+
+msgid "If you have problem or bugs in theme, please report"
+msgstr "Если у вас есть проблемы или ошибки в теме, пожалуйста, сообщите"
+
+msgid "Click here"
+msgstr "Нажмите"
+
+msgid "for ask or support"
+msgstr "для ask или поддержки"
+
+msgid "Support this theme"
+msgstr "Поддержка этой темы"
+
+msgid "If you happy for this theme, please give support for this theme"
+msgstr ""
+"Если вы счастливы для этой темы, пожалуйста, дайте поддержка для этой темы"
+
+msgid "for give 5 rating star"
+msgstr "для дают 5 звезда Рейтинг"
+
+#: admin/logo.php start
+msgid "The image has been uploaded correctly"
+msgstr "Изображение логотипа было загружено правильно"
+
+msgid "An error has occurred, please try again"
+msgstr "Произошла ошибка! Пожалуйста, попробуйте еще раз"
+
+msgid "The image has been removed"
+msgstr "Изображение логотипа было удалено"
+
+msgid "Image not found"
+msgstr "Изображение не найдено"
+
+msgid "Settings images"
+msgstr "Настройки изображений"
+
+msgid "Preview"
+msgstr "Предпросмотр"
+
+msgid "You not upload any images"
+msgstr "Вы не загружать любые изображения"
+
+msgid "Favicon images"
+msgstr "Значок изображения"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "Папка изображений %s не доступна для записи на вашем сервере"
+
+msgid "Osclass can't upload logo image from the administration panel"
+msgstr "Osclass не может загружать логотип из панели администрирования"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "Сделайте указанную папку изображений доступной для записи"
+
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell"
+msgstr ""
+"Чтобы сделать каталог доступным для записи под UNIX выполнить эту команду из "
+"командной строки"
+
+#: admin/settings.php start
+msgid "By"
+msgstr "От"
+
+msgid "General"
+msgstr "Общие комментарии"
+
+msgid "Logo and Favicon"
+msgstr "Логотип и значок"
+
+msgid "Category images"
+msgstr "Изображения категорий"
+
+msgid "Update and support"
+msgstr "Обновление и поддержка"
+
+#: alert-form.php start
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Вы успешно подписались на оповещения"
+
+msgid "Invalid email address"
+msgstr "Некорректный емейл адрес"
+
+msgid "There was a problem with the alert"
+msgstr "Былa проблема с предупреждением"
+
+msgid "Subscribe to this search"
+msgstr "Подписка на рассылку"
+
+msgid "Subscribe now"
+msgstr "Подписаться"
+
+#: contact.php start
+msgid "Contact us"
+msgstr "Связаться с нами"
+
+msgid "Contact administrator"
+msgstr "Контакты Администратора"
+
+msgid "Your name"
+msgstr "Ваше Имя"
+
+msgid "optional"
+msgstr "необязательный"
+
+msgid "Your e-mail address"
+msgstr "Ваш электронный адрес"
+
+msgid "Subject"
+msgstr "Предмет"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Send messages"
+msgstr "Отправка сообщений"
+
+#: custom.php start
+msgid "Pages"
+msgstr "Страницы"
+
+#: footer.php start
+msgid "Active ads"
+msgstr "активные объявления"
+
+msgid "in"
+msgstr "в"
+
+msgid "Total user"
+msgstr "Всего пользователей"
+
+msgid "Total City"
+msgstr "Всего город"
+
+msgid "Contact"
+msgstr "Контакты"
+
+msgid "Follow us"
+msgstr "Следите за нами"
+
+msgid "Back to top"
+msgstr "Вернуться к началу"
+
+msgid "Top"
+msgstr "Вверх"
+
+#: function.php start
+msgid "ie. PHP Programmer"
+msgstr "напишите здесь то, что вы ищете"
+
+#: user-item.php
+msgid "My ads"
+msgstr "Мои объявления"
+
+msgid "Manage my ads"
+msgstr "Управление объявлениями"
+
+msgid "My alerts"
+msgstr "Мои оповещения"
+
+msgid "Edit profile"
+msgstr "Редактировать профиль"
+
+msgid "Change email"
+msgstr "Сменить E-mail"
+
+msgid "Change password"
+msgstr "Сменить пароль"
+
+msgid "Logout"
+msgstr "Выйти"
+
+#: header.php start
+msgid "Home"
+msgstr "Главная"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Hi %s"
+msgstr "Привет, %s"
+
+msgid "My account"
+msgstr "Моя учетная запись"
+
+msgid "Hi Guest!"
+msgstr "Привет, Гость!"
+
+msgid "Login"
+msgstr "авторизоваться"
+
+msgid "Register"
+msgstr "регистр"
+
+msgid "Post new ads"
+msgstr "Разместить объявление"
+
+#: item.php start
+msgid "Seller profile"
+msgstr "Профиль продавца"
+
+msgid "Ads expired"
+msgstr "Срок объявления истек"
+
+msgid "Send mail"
+msgstr "Отправить E-mail"
+
+msgid "View profile"
+msgstr "Посмотреть профиль"
+
+msgid "Unregistered"
+msgstr "Незарегистрирован"
+
+msgid "Seller information"
+msgstr "Информация о продавце"
+
+msgid "The ads is expired. You can't contact the publisher."
+msgstr "Срок действия объявления истек. Вы не можете связаться с владельцем."
+
+msgid "It's your own ads, you can't contact the publisher."
+msgstr "Это ваше объявление, и вы не можете связаться с автором."
+
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+"Вы должны войти в систему или зарегистрируйте новый аккаунт для того, чтобы "
+"связаться с рекламодателем"
+
+msgid "Email"
+msgstr "Электронный адрес"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Cell phone"
+msgstr "Мобильный номер"
+
+msgid "Send email"
+msgstr "Отправить электронное письмо"
+
+msgid "Register for a free account"
+msgstr "Регистрация"
+
+msgid "Your e-mail"
+msgstr "Ваш e-mail"
+
+msgid "Phone number"
+msgstr "Номер телефона"
+
+msgid "Attachment"
+msgstr "Вложения"
+
+msgid "Enter the words above"
+msgstr "Введите слова выше"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Send"
+msgstr "Отправить"
+
+msgid "Location"
+msgstr "Месторасположение"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Share"
+msgstr "Поделитесь"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Detail"
+msgstr "Подробно"
+
+msgid "More information"
+msgstr "Дополнительная информация"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Views"
+msgstr "Просмотры"
+
+msgid "Modified"
+msgstr "Изменено"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Delete your comment"
+msgstr "Удалит комментарий"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "No comments added yet. Be first to leave comment!"
+msgstr "Комментариев пока нет. Нажми, чтобы оставить комментарий!"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Submit comment"
+msgstr "Отправить комментарий"
+
+msgid "Useful information"
+msgstr "Полезная информация"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Для избежания мошенничества платите с PayPal"
+
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Никогда не платите с Western Union, MoneyGram и другие анонимные платежные "
+"системы"
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Не покупайте и не продавайте за пределами вашей страны. Не принимайте "
+"банковские чеки за пределами вашей страны"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Этот сайт никогда не участвует в каких-либо транзакциях и не обрабатывает "
+"платежи, доставку, гарантированные транзакций, не предоставляет услуги "
+"условного депонирования и не предлагает «защиту покупателя» или "
+"«сертификацию продавца»,"
+
+msgid "Related ads"
+msgstr "Похожие объявления"
+
+#: item-post.php start
+msgid "General Information"
+msgstr "Главная информация"
+
+msgid "Select a category"
+msgstr "Выбрать категорию"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Ads Location"
+msgstr "Расположение объявления"
+
+msgid "City Area"
+msgstr "Городская Область"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Show e-mail on the ads page"
+msgstr "Показать электронную почту на странице объявления"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Publish"
+msgstr "Публикация"
+
+#: item-send-friend.php start
+msgid "Share ads"
+msgstr "поделись"
+
+msgid "Send to a friend"
+msgstr "Отправить другу"
+
+msgid "Your friend's name"
+msgstr "Фамилия Вашего друга"
+
+msgid "Your friend's e-mail address"
+msgstr "E-mail вашего друга"
+
+#: main.php start
+msgid "All categories"
+msgstr "Все категории"
+
+#: related.php start
+msgid "Premium"
+msgstr "Премиум"
+
+#: search.php start
+msgid "All result"
+msgstr "Все результаты"
+
+msgid "Personal"
+msgstr "Персональный"
+
+msgid "Company"
+msgstr "Компания"
+
+msgid "View in gallery"
+msgstr "Посмотреть в галерее"
+
+msgid "View in list"
+msgstr "Просмотр в списке"
+
+msgid "View in large galley"
+msgstr "Посмотреть в больших камбуза"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "% 1$d -% 2$d из %3$d предложений"
+
+msgid "Sort by"
+msgstr "Сортировать по"
+
+msgid "There are no results matching \"%s\""
+msgstr "Hет результатов, соответствующих \"%s\""
+
+msgid "Your search"
+msgstr "Ваш поиск"
+
+msgid "Show only ads with images"
+msgstr "Показать только объявления с изображениями"
+
+msgid "Min"
+msgstr "Мин"
+
+msgid "Max"
+msgstr "Макс"
+
+msgid "Apply"
+msgstr "Применить"
+
+#: user-alert.php start
+msgid "My alert"
+msgstr "Бдительный"
+
+msgid "You do not have any alerts yet"
+msgstr "У вас нет никаких оповещений"
+
+msgid "Alert"
+msgstr "оповищение"
+
+msgid "Delete this alert"
+msgstr "Удалить это оповещение"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Вы уверены, что хотите продолжить?"
+
+#: user-change_email.php start
+msgid "Change your e-mail"
+msgstr "Изменить свой адрес электронной почты"
+
+msgid "Current e-mail"
+msgstr "Текущий адрес электронной почты"
+
+msgid "New e-mail"
+msgstr "Новый адрес электронной почты"
+
+#: user-change_password.php start
+msgid "Change your password"
+msgstr "Измените свой пароль"
+
+msgid "New password"
+msgstr "Новый пароль"
+
+msgid "Current password"
+msgstr "Текущий пароль"
+
+msgid "Repeat new password"
+msgstr "Повторите новый пароль"
+
+#: user-change_username.php start
+msgid "Change your username"
+msgstr "Изменить имя пользователя"
+
+msgid "Username"
+msgstr "имя пользователя"
+
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"Предупреждение: После установки, вы не будет иметь возможность снова "
+"изменить ваше имя пользователя. Выбирайте с умом."
+
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+msgid "Access your account"
+msgstr "Доступ к вашему аккаунту"
+
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+msgid "Don't have an account!"
+msgstr "Не зарегистрированы?"
+
+msgid "Register here"
+msgstr "Зарегистрироваться"
+
+msgid "Update your profile"
+msgstr "Обновите свой профиль"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "User type"
+msgstr "Тип пользователя"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "Delete my account"
+msgstr "Удалить мой счет"
+
+msgid "User Description"
+msgstr "Пользователь Описание"
+
+msgid "Ads from %s"
+msgstr "Объявления от %s"
+
+msgid "Recover your password"
+msgstr "Восстановите свой пароль"
+
+msgid "Send me a new password"
+msgstr "Прислать новый пароль"
+
+msgid "Create new account"
+msgstr "Создать новый аккаунт"
+
+msgid "Re-type password"
+msgstr "Введите пароль еще раз"
+
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают"
+
+msgid "I agree to the"
+msgstr "Соглашаюсь с"
+
+msgid "Terms of Use"
+msgstr "Условия использования"
+
+msgid "Already have an account?"
+msgstr "Уже есть аккаунт?"
+
+msgid "Your contact info"
+msgstr "Контактные данные"
+
+msgid "Insert number"
+msgstr "вставить номер"
+
+msgid "No file selected"
+msgstr "Никакие файлы не выбраны"
+
+msgid "Choose File"
+msgstr "Выбрать файл"
+
+msgid "Select a region"
+msgstr "Выберите регион"
+
+msgid "Select a city"
+msgstr "Выберите город"
+
+msgid "Select a country"
+msgstr "Выберите страну"
+
+msgid "No Latest ads"
+msgstr "Последние объявления"
+
+msgid "You not have ads"
+msgstr "Вы не имеют объявления"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Вы уверены, что хотите продолжить?"
+
+msgid "See all ads"
+msgstr "Смотреть всё"
+
+msgid "Activate"
+msgstr "Активировать"
+
+msgid "Browse categories"
+msgstr "Просмотр категорий"
+
+msgid "Seller's information"
+msgstr "Информация о продавце"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Registered"
+msgstr "Регистрация"
+
+msgid "Phone number not available"
+msgstr "Номер телефона не доступны"
+
+msgid "Images already uploaded"
+msgstr "Уже загруженные изображения"
+
+msgid "Change profile picture"
+msgstr "Изменить фото профиля"
+
+msgid "Delete account button"
+msgstr "Удалить аккаунт"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"Все ваши объявления и оповещения будут удалены, это действие не может быть "
+"отменено."
+
+msgid "Delete account"
+msgstr "Удалить аккаунт"
+
+msgid "Header search button"
+msgstr "Кнопка поиска заголовка"
+
+msgid "Use custom color"
+msgstr "Использовать Пользовательский цвет"
+
+msgid "Use default color"
+msgstr "Использовать цвет по умолчанию"
+
+msgid "Custom color"
+msgstr "Свой цвет"
+
+msgid "Right sidebar ads"
+msgstr "Правый сайдбар"
+
+msgid "Left sidebar ads"
+msgstr "Левый сайдбар"

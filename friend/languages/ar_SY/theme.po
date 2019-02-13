@@ -1,0 +1,875 @@
+# Copyright (C) 2017 OsclassMe
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassDotMe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-11 10:06+0700\n"
+"Language-Team: Translations <cs@osclass.me>\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Last-Translator: \n"
+"Language: ar_SA\n"
+
+#: 404.php start
+msgid "404 Not Found"
+msgstr "404 صفحة غير موجودة"
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr "نأسف، حدث خطأ، الصفحة المطلوبة غير موجودة!"
+
+msgid "Take me home"
+msgstr "\"خذني لديار\""
+
+msgid "or"
+msgstr "أو"
+
+msgid "Contact support"
+msgstr "الاتصال بالدعم"
+
+#: admin/category.php start
+msgid "Remove"
+msgstr "حذف"
+
+msgid "Upload"
+msgstr "رفع"
+
+msgid "Recommended size"
+msgstr "الحجم الموصى به"
+
+msgid "Category Images"
+msgstr "خيارات التصنيف"
+
+#: admin/general.php start
+msgid "General Settings"
+msgstr "الاعدادات العامة"
+
+msgid "Search Placeholder"
+msgstr "شاغل مكان نموذج البحث"
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Welcome text"
+msgstr "نص الترحيب"
+
+msgid "Welcome to classifieds"
+msgstr "مرحبا بكم في سوق مصر  للإعلاناتا المبوبة"
+
+msgid "Insert your welcome text"
+msgstr "إدراج النص مرحبا بك"
+
+msgid "Header search butoon"
+msgstr "رأس البحث بوتون"
+
+msgid "Show"
+msgstr "مشاهدة"
+
+msgid "Hide"
+msgstr "اخفاء"
+
+msgid "Show tab content"
+msgstr "محتوى علامة التبويب"
+
+msgid "Premium ads"
+msgstr "إعلانات مميزة"
+
+msgid "Latest ads"
+msgstr "إعلانات جديدة"
+
+msgid "All category"
+msgstr "جميع الفئات"
+
+msgid "Show category count"
+msgstr "إظهار عدد الفئات"
+
+msgid "Premium ads count"
+msgstr "عد إعلان قسط"
+
+msgid "Latest ads count"
+msgstr "أحدث إعلانات العد"
+
+msgid "Search premium ads"
+msgstr "إعلانات قسط البحث"
+
+msgid "Related ads count"
+msgstr "عدد الإعلانات ذات الصلة"
+
+msgid "Footer Copyright"
+msgstr "نص الحقوق في الفوتر"
+
+msgid "Copyright All right reserved"
+msgstr "حقوق النشر جميع الحقوق محفوظة"
+
+msgid "Copyright text on footer."
+msgstr "حقوق التأليف والنشر من النص في تذييل الصفحة."
+
+msgid "Element settings"
+msgstr "إعدادات العناصر"
+
+msgid "Show lists as"
+msgstr "إظهار القوائم كما"
+
+msgid "Gallery"
+msgstr "معرض الصور"
+
+msgid "List"
+msgstr "عرض قائمي"
+
+msgid "Large gallery"
+msgstr "معرض كبير"
+
+msgid "Search form"
+msgstr "استمارة البحث"
+
+msgid "Region"
+msgstr "المنطقة"
+
+msgid "City"
+msgstr "المدينة"
+
+msgid "Country"
+msgstr "البلد"
+
+msgid "Category"
+msgstr "فئة"
+
+msgid "Show main category images"
+msgstr "وتظهر الصور الفئة الرئيسية"
+
+msgid "Show footer statistic"
+msgstr "إظهار إحصائيات تذييل الصفحة"
+
+msgid "Footer widget"
+msgstr "رابط ودجت ذيل الصفحة"
+
+msgid "Widget title"
+msgstr "عنوان الأداة"
+
+msgid "Your title"
+msgstr "لقبك"
+
+msgid "Widget content"
+msgstr "تعديل محتوى القطعة"
+
+msgid "Insert your title and widget"
+msgstr "أدخل العنوان والقطعة"
+
+msgid "Color settings"
+msgstr "اعدادات اللون"
+
+msgid "Select color Scheme"
+msgstr "حدد نظام الألوان"
+
+msgid "Theme Color"
+msgstr "لون الموضوع"
+
+msgid "Background color"
+msgstr "لون الخلفية"
+
+msgid "Price color"
+msgstr "لون السعر"
+
+msgid "Footer color"
+msgstr "لون الذيل.footer"
+
+msgid "Footer background"
+msgstr "خلفية الفوتر"
+
+msgid "Ads space"
+msgstr "المجال"
+
+msgid "Insert your ads code"
+msgstr "إدراج التعليمات البرمجية الخاصة بك الإعلانات"
+
+msgid "Header ads"
+msgstr "منطقة الإعلانات في الرأس"
+
+msgid "Footer ads"
+msgstr "الإعلانات في أسفل الصفحة"
+
+msgid "Sidebar ads"
+msgstr "الشريط الجانبي"
+
+msgid "Search page ads"
+msgstr "صفحة البحث"
+
+msgid "Social media"
+msgstr "حسابات التواصل الاجتماعى"
+
+msgid "More"
+msgstr "المزيد"
+
+msgid "Term of use link"
+msgstr "مدة استخدام ارتباط"
+
+msgid "Useful title"
+msgstr "العنوان مفيدة"
+
+msgid "Your useful title"
+msgstr "العنوان الخاص بك مفيدة"
+
+msgid "Useful content"
+msgstr "محتوى مفيد"
+
+msgid "Insert your useful content"
+msgstr "إدراج المحتوى الخاص بك مفيدة"
+
+msgid "Leave blank if you want to use default useful info"
+msgstr "اترك المساحة فارغة إذا كنت تريد استخدام الافتراضي معلومات مفيدة"
+
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: admin/info.php start
+msgid "Update and Fixed"
+msgstr "تحديث وإصلاح"
+
+msgid "Version"
+msgstr "النسخة"
+
+msgid "Ask and support"
+msgstr "اسأل ودعم"
+
+msgid "If you have problem or bugs in theme, please report"
+msgstr "إذا كان لديك مشكلة أو الأخطاء في الموضوع، الرجاء إرسال تقرير"
+
+msgid "Click here"
+msgstr "اضغط هنا"
+
+msgid "for ask or support"
+msgstr "للسؤال أو الدعم"
+
+msgid "Support this theme"
+msgstr "دعم هذا الموضوع"
+
+msgid "If you happy for this theme, please give support for this theme"
+msgstr "إذا كنت سعيدة لهذا الموضوع، يرجى تقديم الدعم لهذا الموضوع"
+
+msgid "for give 5 rating star"
+msgstr "لإعطاء 5 تصنيف النجوم"
+
+#: admin/logo.php start
+msgid "The image has been uploaded correctly"
+msgstr "تم تحميل الصورة بشكل صحيح"
+
+msgid "An error has occurred, please try again"
+msgstr "حدث خطأ، يرجى المحاولة مرة أخرى"
+
+msgid "The image has been removed"
+msgstr "تم إزالة الصورة"
+
+msgid "Image not found"
+msgstr "صورة لم يتم العثور"
+
+msgid "Settings images"
+msgstr "إعدادات الشعار"
+
+msgid "Preview"
+msgstr "معاينة"
+
+msgid "You not upload any images"
+msgstr "لا يمكنك تحميل أي صور"
+
+msgid "Favicon images"
+msgstr "صور فيكن"
+
+msgid "The images folder %s is not writable on your server"
+msgstr "مجلد الصور <strong>%s</strong> غير قابل للكتابة على الخادم الخاص بك"
+
+msgid "Osclass can't upload logo image from the administration panel"
+msgstr "أوسكلاس لا يمكن تحميل صورة الشعار من لوحة الإدارة"
+
+msgid "Please make the mentioned images folder writable"
+msgstr "الرجاء جعل مجلد الصور المذكورة للكتابة"
+
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell"
+msgstr "لجعل للكتابة الدليل تحت UNIX تنفيذ هذا الأمر من شيل"
+
+#: admin/settings.php start
+msgid "By"
+msgstr "بواسطة"
+
+msgid "General"
+msgstr "عام"
+
+msgid "Logo and Favicon"
+msgstr "شعار وفيكن"
+
+msgid "Category images"
+msgstr "فئة الصور"
+
+msgid "Update and support"
+msgstr "التحديث والدعم"
+
+#: alert-form.php start
+msgid "You have sucessfully subscribed to the alert"
+msgstr "لقد اشتركت بنجاح إلى التنبيه"
+
+msgid "Invalid email address"
+msgstr "عنوان البريد غير صالح"
+
+msgid "There was a problem with the alert"
+msgstr "كانت هناك مشكلة مع التنبيه"
+
+msgid "Subscribe to this search"
+msgstr "اشترك في هذا البحث"
+
+msgid "Subscribe now"
+msgstr "إشترك الآن"
+
+#: contact.php start
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+msgid "Contact administrator"
+msgstr "رجاء التواصل مع المسؤول الخاص بك."
+
+msgid "Your name"
+msgstr "اسمك"
+
+msgid "optional"
+msgstr "اختياري"
+
+msgid "Your e-mail address"
+msgstr "البريد الإلكتروني"
+
+msgid "Subject"
+msgstr "لقب"
+
+msgid "Message"
+msgstr "رسالة"
+
+msgid "Send messages"
+msgstr "إرسال الرسائل"
+
+#: custom.php start
+msgid "Pages"
+msgstr "الصفحات"
+
+#: footer.php start
+msgid "Active ads"
+msgstr "الإعلانات النشطة"
+
+msgid "in"
+msgstr "في"
+
+msgid "Total user"
+msgstr "مجموع المستخدمين"
+
+msgid "Total City"
+msgstr "إجمالي المدينة"
+
+msgid "Contact"
+msgstr "جهة الاتصال"
+
+msgid "Follow us"
+msgstr "تابعنا"
+
+msgid "Back to top"
+msgstr "ارجوع الى الاعلى"
+
+msgid "Top"
+msgstr "الأعلى"
+
+#: function.php start
+msgid "ie. PHP Programmer"
+msgstr "أي. PHP مبرمج"
+
+#: user-item.php
+msgid "My ads"
+msgstr "اعلاناتي"
+
+msgid "Manage my ads"
+msgstr "إدارة الإعلانات"
+
+msgid "My alerts"
+msgstr "تنبيهاتى"
+
+msgid "Edit profile"
+msgstr "تحرير الملف الشخصي"
+
+msgid "Change email"
+msgstr "تعديل الايميل"
+
+msgid "Change password"
+msgstr "﻿تغيير كلمة السر"
+
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: header.php start
+msgid "Home"
+msgstr "الرئيسية"
+
+msgid "Language"
+msgstr "اللغة"
+
+msgid "Hi %s"
+msgstr "مرحبا %s"
+
+msgid "My account"
+msgstr "حسابي"
+
+msgid "Hi Guest!"
+msgstr "مرحبا عزيزي الزائر"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Register"
+msgstr "التسجيل"
+
+msgid "Post new ads"
+msgstr "نشر إعلانات جديدة"
+
+#: item.php start
+msgid "Seller profile"
+msgstr "البائع الشخصية"
+
+msgid "Ads expired"
+msgstr "منتهي"
+
+msgid "Send mail"
+msgstr "إرسال البريد"
+
+msgid "View profile"
+msgstr "عرض البروفايل"
+
+msgid "Unregistered"
+msgstr "غير مسجل"
+
+msgid "Seller information"
+msgstr "معلومات عن المعلن"
+
+msgid "The ads is expired. You can't contact the publisher."
+msgstr "الاعلان منتهي الصلاحية. لا يمكنك الاتصال بالناشر."
+
+msgid "It's your own ads, you can't contact the publisher."
+msgstr "هذا الإعلان ملكك لا يمكنك التواصل مع نفسك."
+
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr "يجب عليك تسجيل الدخول أو تسجيل حساب جديد من أجل الاتصال المعلن"
+
+msgid "Email"
+msgstr "البريد الالكتروني"
+
+msgid "Phone"
+msgstr "الهاتف"
+
+msgid "Cell phone"
+msgstr "هاتف محمول"
+
+msgid "Send email"
+msgstr "إرسال بريد إلكتروني"
+
+msgid "Register for a free account"
+msgstr "التسجيل للحصول على حساب مجاني"
+
+msgid "Your e-mail"
+msgstr "بريدك الإلكتروني"
+
+msgid "Phone number"
+msgstr "رقم الهاتف"
+
+msgid "Attachment"
+msgstr "المرفقات"
+
+msgid "Enter the words above"
+msgstr "ادخل النص الموجود بالأعلى"
+
+msgid "Help"
+msgstr "مساعدة"
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "Location"
+msgstr "الموقع"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Share"
+msgstr "مشاركة"
+
+msgid "Image"
+msgstr "الصورة"
+
+msgid "Detail"
+msgstr "تفاصيل"
+
+msgid "More information"
+msgstr "مزيد من المعلومات"
+
+msgid "Categories"
+msgstr "التصنيفات"
+
+msgid "Views"
+msgstr "المشاهدات"
+
+msgid "Modified"
+msgstr "تم التعديل"
+
+msgid "Comments"
+msgstr "التعليقات"
+
+msgid "Delete your comment"
+msgstr "حذف التعليق"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "No comments added yet. Be first to leave comment!"
+msgstr "كن أول من يترك تعليق هنا"
+
+msgid "Title"
+msgstr "لقب"
+
+msgid "Comment"
+msgstr "تعليق"
+
+msgid "Submit comment"
+msgstr "ارسل التعليق"
+
+msgid "Useful information"
+msgstr "معلومات مفيدة"
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "تجنب عمليات الاحتيال من خلال العمل محليا أو دفع مع باي بال"
+
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"أبدا دفع مع ويسترن يونيون، مونيغرام أو خدمات الدفع الأخرى مجهولة المصدر"
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr "لا تشتري أو تبيع خارج بلدك. لا نقبل الشيكات أمين الصندوق من خارج بلدك"
+
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"هذا الموقع لا يشارك ابداً في أي صفقة، ولا تتم معالجة اي من المدفوعات او "
+"الشحن، او المعاملات او الضمان ولا يقدم خدمات الضمان، أو تقديم \"حماية للمشتري"
+"\" أو \"توثيق للبائع\""
+
+msgid "Related ads"
+msgstr "إعلانات مشابهة"
+
+#: item-post.php start
+msgid "General Information"
+msgstr "معلومات عامة"
+
+msgid "Select a category"
+msgstr "اختر فئة"
+
+msgid "Description"
+msgstr "الوصف"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "Ads Location"
+msgstr "الموقع"
+
+msgid "City Area"
+msgstr "مدينة منطقة"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+msgid "Show e-mail on the ads page"
+msgstr "إظهار البريد الإلكتروني على صفحة الإعلانات"
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Publish"
+msgstr "نشر"
+
+#: item-send-friend.php start
+msgid "Share ads"
+msgstr "شارك"
+
+msgid "Send to a friend"
+msgstr "أرسل إلى صديق"
+
+msgid "Your friend's name"
+msgstr "اسم صديقك"
+
+msgid "Your friend's e-mail address"
+msgstr "عنوان البريد الإلكتروني لصديقك"
+
+#: main.php start
+msgid "All categories"
+msgstr "جميع الفئات"
+
+#: related.php start
+msgid "Premium"
+msgstr "متميز"
+
+#: search.php start
+msgid "All result"
+msgstr "الاطلاع على كل العروض"
+
+msgid "Personal"
+msgstr "شخصي"
+
+msgid "Company"
+msgstr "الشركة"
+
+msgid "View in gallery"
+msgstr "مشاهدة الاعلانات"
+
+msgid "View in list"
+msgstr "كما تظهر قائمة"
+
+msgid "View in large galley"
+msgstr "مشاهدة الاعلانات"
+
+msgid "Result"
+msgstr "نتيجة"
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d of %3$d نتائج البحث"
+
+msgid "Sort by"
+msgstr "ترتيب حسب"
+
+msgid "There are no results matching \"%s\""
+msgstr "تنبيه الوظيفة النتائج المطابقة \"%s\""
+
+msgid "Your search"
+msgstr "بحثك"
+
+msgid "Show only ads with images"
+msgstr "تظهر الإعلانات فقط مع الصور"
+
+msgid "Min"
+msgstr "حد أدنى"
+
+msgid "Max"
+msgstr "حد أقصى"
+
+msgid "Apply"
+msgstr "تطبق"
+
+#: user-alert.php start
+msgid "My alert"
+msgstr "بلدي في حالة تأهب"
+
+msgid "You do not have any alerts yet"
+msgstr "ليس لديك أي تنبيهات بعد"
+
+msgid "Alert"
+msgstr "إنذار"
+
+msgid "Delete this alert"
+msgstr "حذف هذا التنبيه"
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "لا يمكن التراجع عن هذا الإجراء. هل أنت متأكد أنك تريد المتابعة؟"
+
+#: user-change_email.php start
+msgid "Change your e-mail"
+msgstr "تغيير البريد الإلكتروني الخاص بك"
+
+msgid "Current e-mail"
+msgstr "الحالي البريد الإلكتروني"
+
+msgid "New e-mail"
+msgstr "جديد البريد الإلكتروني"
+
+#: user-change_password.php start
+msgid "Change your password"
+msgstr "تغيير كلمة المرور الخاصة بك"
+
+msgid "New password"
+msgstr "كلمة المرور الجديدة"
+
+msgid "Current password"
+msgstr "كلمة المرور الحالية"
+
+msgid "Repeat new password"
+msgstr "مرة أخرى"
+
+#: user-change_username.php start
+msgid "Change your username"
+msgstr "تغيير اسم المستخدم الخاص بك"
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"تحذير: مجموعة مرة واحدة، سوف لا تكون قادراً على تغيير اسم المستخدم الخاص بك "
+"مرة أخرى. تختار بحكمة."
+
+msgid "Forgot password?"
+msgstr "نسيت كلمة المرور ؟"
+
+msgid "Access your account"
+msgstr "الوصول إلى حسابك"
+
+msgid "Remember me"
+msgstr "تذكرني"
+
+msgid "Don't have an account!"
+msgstr "لم يكن لديك حساب!"
+
+msgid "Register here"
+msgstr "التسجيل"
+
+msgid "Update your profile"
+msgstr "تحديث الملف الشخصي"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "User type"
+msgstr "نوع المستخدم"
+
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+msgid "Delete my account"
+msgstr "حذف الحساب"
+
+msgid "User Description"
+msgstr "الوصف المستخدم"
+
+msgid "Ads from %s"
+msgstr "إعلانات من  %s"
+
+msgid "Recover your password"
+msgstr "استعادة كلمة المرور"
+
+msgid "Send me a new password"
+msgstr "ارسل لي كلمة سر جديدة"
+
+msgid "Create new account"
+msgstr "إنشاء حساب جديد"
+
+msgid "Re-type password"
+msgstr "أعد كتابة كلمة السر"
+
+msgid "Passwords don't match"
+msgstr "لا تتطابق كلمات المرور"
+
+msgid "I agree to the"
+msgstr "أنا أوافق على %s"
+
+msgid "Terms of Use"
+msgstr "شروط الاستخدام"
+
+msgid "Already have an account?"
+msgstr "هل لديك حساب بالفعل؟"
+
+msgid "Your contact info"
+msgstr "معلومات الاتصال"
+
+msgid "Insert number"
+msgstr "إدراج رقم"
+
+msgid "No file selected"
+msgstr "لم يتم إختيار ملف"
+
+msgid "Choose File"
+msgstr "اختر ملف"
+
+msgid "Select a region"
+msgstr "حدد منطقة"
+
+msgid "Select a city"
+msgstr "حدد مدينة"
+
+msgid "Select a country"
+msgstr "اختر البلد"
+
+msgid "No Latest ads"
+msgstr "أحدث الإعلانات"
+
+msgid "You not have ads"
+msgstr "لا يكون لديك إعلانات"
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "لا يمكن التراجع عن هذا الإجراء. هل أنت متأكد أنك تريد المتابعة؟"
+
+msgid "See all ads"
+msgstr "مشاهدة جميع الإعلانات"
+
+msgid "Activate"
+msgstr "تفعيل"
+
+msgid "Browse categories"
+msgstr "تصفح الاقسام"
+
+msgid "Seller's information"
+msgstr "معلومات البائع"
+
+msgid "Name"
+msgstr "الإسم"
+
+msgid "Registered"
+msgstr "مسجَّل"
+
+msgid "Phone number not available"
+msgstr "رقم الهاتف غير متوفر"
+
+msgid "Images already uploaded"
+msgstr "الصور التي تم تحميلها بالفعل"
+
+msgid "Change profile picture"
+msgstr "انقر لتغيير صورتك الشخصية"
+
+msgid "Delete account button"
+msgstr "حذف زر الحساب"
+
+msgid "Yes"
+msgstr "تعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"كل ما تبذلونه من القوائم والتنبيهات سيتم إزالتها، لا يمكن التراجع عن هذا "
+"الإجراء."
+
+msgid "Delete account"
+msgstr "حذف الحساب"
+
+msgid "Header search button"
+msgstr "زر البحث رأس"
+
+msgid "Use custom color"
+msgstr "استخدم لون مخصص:"
+
+msgid "Use default color"
+msgstr "اللون الافتراضي"
+
+msgid "Custom color"
+msgstr "لون مخصص"
+
+msgid "Right sidebar ads"
+msgstr "الشريط الجانبي الأيمن"
+
+msgid "Left sidebar ads"
+msgstr "الشريط الجانبي الأيسر"

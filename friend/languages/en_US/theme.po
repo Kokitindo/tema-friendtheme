@@ -1,0 +1,862 @@
+# Copyright (C) 2017 OsclassMe
+# This file is distributed under the same license as the {package-name} package.
+msgid ""
+msgstr ""
+"Project-Id-Version: OsclassDotMe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:40:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-10 15:57+0700\n"
+"Language-Team: Translations <cs@osclass.me>\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#: 404.php start
+msgid "404 Not Found"
+msgstr ""
+
+msgid "Sorry, an error has occured, Requested page not found!"
+msgstr ""
+
+msgid "Take me home"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "Contact support"
+msgstr ""
+
+#: admin/category.php start
+msgid "Remove"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Recommended size"
+msgstr ""
+
+msgid "Category Images"
+msgstr ""
+
+#: admin/general.php start
+msgid "General Settings"
+msgstr ""
+
+msgid "Search Placeholder"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Welcome text"
+msgstr ""
+
+msgid "Welcome to classifieds"
+msgstr ""
+
+msgid "Insert your welcome text"
+msgstr ""
+
+msgid "Header search butoon"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Show tab content"
+msgstr ""
+
+msgid "Premium ads"
+msgstr ""
+
+msgid "Latest ads"
+msgstr ""
+
+msgid "All category"
+msgstr ""
+
+msgid "Show category count"
+msgstr ""
+
+msgid "Premium ads count"
+msgstr ""
+
+msgid "Latest ads count"
+msgstr ""
+
+msgid "Search premium ads"
+msgstr ""
+
+msgid "Related ads count"
+msgstr ""
+
+msgid "Footer Copyright"
+msgstr ""
+
+msgid "Copyright All right reserved"
+msgstr ""
+
+msgid "Copyright text on footer."
+msgstr ""
+
+msgid "Element settings"
+msgstr ""
+
+msgid "Show lists as"
+msgstr ""
+
+msgid "Gallery"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Large gallery"
+msgstr ""
+
+msgid "Search form"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Show main category images"
+msgstr ""
+
+msgid "Show footer statistic"
+msgstr ""
+
+msgid "Footer widget"
+msgstr ""
+
+msgid "Widget title"
+msgstr ""
+
+msgid "Your title"
+msgstr ""
+
+msgid "Widget content"
+msgstr ""
+
+msgid "Insert your title and widget"
+msgstr ""
+
+msgid "Color settings"
+msgstr ""
+
+msgid "Select color Scheme"
+msgstr ""
+
+msgid "Theme Color"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Price color"
+msgstr ""
+
+msgid "Footer color"
+msgstr ""
+
+msgid "Footer background"
+msgstr ""
+
+msgid "Ads space"
+msgstr ""
+
+msgid "Insert your ads code"
+msgstr ""
+
+msgid "Header ads"
+msgstr ""
+
+msgid "Footer ads"
+msgstr ""
+
+msgid "Sidebar ads"
+msgstr ""
+
+msgid "Search page ads"
+msgstr ""
+
+msgid "Social media"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "Term of use link"
+msgstr ""
+
+msgid "Useful title"
+msgstr ""
+
+msgid "Your useful title"
+msgstr ""
+
+msgid "Useful content"
+msgstr ""
+
+msgid "Insert your useful content"
+msgstr ""
+
+msgid "Leave blank if you want to use default useful info"
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+#: admin/info.php start
+msgid "Update and Fixed"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Ask and support"
+msgstr ""
+
+msgid "If you have problem or bugs in theme, please report"
+msgstr ""
+
+msgid "Click here"
+msgstr ""
+
+msgid "for ask or support"
+msgstr ""
+
+msgid "Support this theme"
+msgstr ""
+
+msgid "If you happy for this theme, please give support for this theme"
+msgstr ""
+
+msgid "for give 5 rating star"
+msgstr ""
+
+#: admin/logo.php start
+msgid "The image has been uploaded correctly"
+msgstr ""
+
+msgid "An error has occurred, please try again"
+msgstr ""
+
+msgid "The image has been removed"
+msgstr ""
+
+msgid "Image not found"
+msgstr ""
+
+msgid "Settings images"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "You not upload any images"
+msgstr ""
+
+msgid "Favicon images"
+msgstr ""
+
+msgid "The images folder %s is not writable on your server"
+msgstr ""
+
+msgid "Osclass can't upload logo image from the administration panel"
+msgstr ""
+
+msgid "Please make the mentioned images folder writable"
+msgstr ""
+
+msgid "To make a directory writable under UNIX execute this command from the shell"
+msgstr ""
+
+#: admin/settings.php start
+msgid "By"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Logo and Favicon"
+msgstr ""
+
+msgid "Category images"
+msgstr ""
+
+msgid "Update and support"
+msgstr ""
+
+#: alert-form.php start
+msgid "You have sucessfully subscribed to the alert"
+msgstr ""
+
+msgid "Invalid email address"
+msgstr ""
+
+msgid "There was a problem with the alert"
+msgstr ""
+
+msgid "Subscribe to this search"
+msgstr ""
+
+msgid "Subscribe now"
+msgstr ""
+
+#: contact.php start
+msgid "Contact us"
+msgstr ""
+
+msgid "Contact administrator"
+msgstr ""
+
+msgid "Your name"
+msgstr ""
+
+msgid "optional"
+msgstr ""
+
+msgid "Your e-mail address"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Send messages"
+msgstr ""
+
+#: custom.php start
+msgid "Pages"
+msgstr ""
+
+#: footer.php start
+msgid "Active ads"
+msgstr ""
+
+msgid "in"
+msgstr ""
+
+msgid "Total user"
+msgstr ""
+
+msgid "Total City"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Follow us"
+msgstr ""
+
+msgid "Back to top"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+#: function.php start
+msgid "ie. PHP Programmer"
+msgstr ""
+
+#: user-item.php
+msgid "My ads"
+msgstr ""
+
+msgid "Manage my ads"
+msgstr ""
+
+msgid "My alerts"
+msgstr ""
+
+msgid "Edit profile"
+msgstr ""
+
+msgid "Change email"
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+#: header.php start
+msgid "Home"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Hi %s"
+msgstr ""
+
+msgid "My account"
+msgstr ""
+
+msgid "Hi Guest!"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Post new ads"
+msgstr ""
+
+#: item.php start
+msgid "Seller profile"
+msgstr ""
+
+msgid "Ads expired"
+msgstr ""
+
+msgid "Send mail"
+msgstr ""
+
+msgid "View profile"
+msgstr ""
+
+msgid "Unregistered"
+msgstr ""
+
+msgid "Seller information"
+msgstr ""
+
+msgid "The ads is expired. You can't contact the publisher."
+msgstr ""
+
+msgid "It's your own ads, you can't contact the publisher."
+msgstr ""
+
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Cell phone"
+msgstr ""
+
+msgid "Send email"
+msgstr ""
+
+msgid "Register for a free account"
+msgstr ""
+
+msgid "Your e-mail"
+msgstr ""
+
+msgid "Phone number"
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "Enter the words above"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Detail"
+msgstr ""
+
+msgid "More information"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Delete your comment"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "No comments added yet. Be first to leave comment!"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Submit comment"
+msgstr ""
+
+msgid "Useful information"
+msgstr ""
+
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr ""
+
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+
+msgid ""
+"This site is never involved in any transaction, and does not handle payments, "
+"shipping, guarantee transactions, provide escrow services, or offer \"buyer "
+"protection\" or \"seller certification\""
+msgstr ""
+
+msgid "Related ads"
+msgstr ""
+
+#: item-post.php start
+msgid "General Information"
+msgstr ""
+
+msgid "Select a category"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Ads Location"
+msgstr ""
+
+msgid "City Area"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Show e-mail on the ads page"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+#: item-send-friend.php start
+msgid "Share ads"
+msgstr ""
+
+msgid "Send to a friend"
+msgstr ""
+
+msgid "Your friend's name"
+msgstr ""
+
+msgid "Your friend's e-mail address"
+msgstr ""
+
+#: main.php start
+msgid "All categories"
+msgstr ""
+
+#: related.php start
+msgid "Premium"
+msgstr ""
+
+#: search.php start
+msgid "All result"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "View in gallery"
+msgstr ""
+
+msgid "View in list"
+msgstr ""
+
+msgid "View in large galley"
+msgstr ""
+
+msgid "Result"
+msgstr ""
+
+msgid "%1$d - %2$d of %3$d listings"
+msgstr ""
+
+msgid "Sort by"
+msgstr ""
+
+msgid "There are no results matching \"%s\""
+msgstr ""
+
+msgid "Your search"
+msgstr ""
+
+msgid "Show only ads with images"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Max"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+#: user-alert.php start
+msgid "My alert"
+msgstr ""
+
+msgid "You do not have any alerts yet"
+msgstr ""
+
+msgid "Alert"
+msgstr ""
+
+msgid "Delete this alert"
+msgstr ""
+
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: user-change_email.php start
+msgid "Change your e-mail"
+msgstr ""
+
+msgid "Current e-mail"
+msgstr ""
+
+msgid "New e-mail"
+msgstr ""
+
+#: user-change_password.php start
+msgid "Change your password"
+msgstr ""
+
+msgid "New password"
+msgstr ""
+
+msgid "Current password"
+msgstr ""
+
+msgid "Repeat new password"
+msgstr ""
+
+#: user-change_username.php start
+msgid "Change your username"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. Choose "
+"wisely."
+msgstr ""
+
+msgid "Forgot password?"
+msgstr ""
+
+msgid "Access your account"
+msgstr ""
+
+msgid "Remember me"
+msgstr ""
+
+msgid "Don't have an account!"
+msgstr ""
+
+msgid "Register here"
+msgstr ""
+
+msgid "Update your profile"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "User type"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Delete my account"
+msgstr ""
+
+msgid "User Description"
+msgstr ""
+
+msgid "Ads from %s"
+msgstr ""
+
+msgid "Recover your password"
+msgstr ""
+
+msgid "Send me a new password"
+msgstr ""
+
+msgid "Create new account"
+msgstr ""
+
+msgid "Re-type password"
+msgstr ""
+
+msgid "Passwords don't match"
+msgstr ""
+
+msgid "I agree to the"
+msgstr ""
+
+msgid "Terms of Use"
+msgstr ""
+
+msgid "Already have an account?"
+msgstr ""
+
+msgid "Your contact info"
+msgstr ""
+
+msgid "Insert number"
+msgstr ""
+
+msgid "No file selected"
+msgstr ""
+
+msgid "Choose File"
+msgstr ""
+
+msgid "Select a region"
+msgstr ""
+
+msgid "Select a city"
+msgstr ""
+
+msgid "Select a country"
+msgstr ""
+
+msgid "No Latest ads"
+msgstr ""
+
+msgid "You not have ads"
+msgstr ""
+
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+
+msgid "See all ads"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Browse categories"
+msgstr ""
+
+msgid "Seller's information"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Registered"
+msgstr ""
+
+msgid "Phone number not available"
+msgstr ""
+
+msgid "Images already uploaded"
+msgstr ""
+
+msgid "Change profile picture"
+msgstr ""
+
+msgid "Delete account button"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+
+msgid "Delete account"
+msgstr ""
+
+msgid "Header search button"
+msgstr ""
+
+msgid "Use custom color"
+msgstr ""
+
+msgid "Use default color"
+msgstr ""
+
+msgid "Custom color"
+msgstr ""
+
+msgid "Right sidebar ads"
+msgstr ""
+
+msgid "Left sidebar ads"
+msgstr ""
